@@ -1,0 +1,89 @@
+ ### PROCEDIMENTO OPERACIONAL PADRÃO ###
+TÍTULO: Recolhimento de Insumos (Carcaça)
+OBJETIVO: Estabelecer as diretrizes para a correta orientação, classificação e registro de chamados relacionados ao recolhimento de insumos de impressoras (carcaças).
+
+== PASSO 1: ANÁLISE PRÉVIA ==
+DESCRIÇÃO: Antes de abrir um chamado, realize as seguintes verificações para garantir um registro eficaz.
+
+-- Verificação de Chamados Abertos --
+AÇÃO: Confirme se não há chamados de recolhimento já abertos para a mesma unidade.
+REFERÊNCIA: Anexo A.
+
+-- Verificação de Endereço e CNPJ --
+AÇÃO: Sempre que um CNPJ for informado, consulte o site da Receita Federal para validar o endereço.
+SITE: https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp
+REGRA: O endereço do CNPJ consultado deve ser o mesmo que consta na ferramenta SDM e no sistema Gprint.
+REFERÊNCIA: Anexo B e C.
+
+-- Ações em Caso de Divergência de Endereço --
+CONDIÇÃO: Se o endereço do CNPJ na Receita Federal for diferente do endereço no sistema Gprint.
+AÇÃO 1: Questione o usuário e solicite um CNPJ que corresponda ao endereço do Gprint.
+AÇÃO 2: Se o usuário insistir que não possui outro CNPJ, prossiga com a abertura do chamado.
+TEXTO OBRIGATÓRIO PARA O CHAMADO: No campo "Ações Tomadas", insira a seguinte observação: "Foi questionado junto ao usuário que o CNPJ informado não tem o mesmo endereço do sistema Gprint, entretanto o mesmo afirma não haver outro CNPJ para informar."
+
+== PASSO 2: ABERTURA E SONDAGEM DO CHAMADO ==
+DESCRIÇÃO: Ao abrir o chamado, realize uma sondagem completa para coletar todas as informações necessárias.
+
+-- Checklist de Sondagem (Perguntas ao Usuário) --
+1. Quantidade total de insumos para recolhimento?
+2. Todos os itens são da marca Lexmark? (Se não, especificar outras marcas).
+3. Qual o horário de funcionamento do local para a coleta?
+4. Existe alguma restrição de acesso ao local? (Ex: agendamento, documento específico, EPIs).
+5. O local onde os itens estão possui escadas?
+6. É necessário carrinho de transporte para a remoção?
+7. Qual o número de telefone celular (com DDD) de um contato no local? (Informar que é para facilitar o contato da transportadora).
+8. Qual o e-mail para a transportadora enviar a notificação da coleta?
+
+-- Campo O.S. Cliente --
+AÇÃO: Preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+REFERÊNCIA: Anexo D.
+
+-- Orientações para Preparar a Coleta --
+AÇÃO: Instrua o usuário sobre os seguintes pontos para garantir uma coleta produtiva.
+1. Posicionar todos os itens no andar térreo, em local de fácil acesso para a equipe de transporte.
+2. Comunicar toda a equipe da unidade sobre a solicitação de recolhimento para que estejam cientes.
+
+== PREVENÇÃO: ALTERNATIVAS AO RECOLHIMENTO ==
+DESCRIÇÃO: Antes de registrar o chamado, oriente o usuário sobre alternativas para otimizar o processo.
+
+-- Opção 1: Descarte Ecológico Local --
+ORIENTAÇÃO: Informe ao usuário que ele tem a opção de realizar o descarte ecológico das carcaças por conta própria, através de postos de coleta locais. Apresente como uma sugestão, não uma obrigação.
+
+-- Opção 2: Agrupar Itens --
+ORIENTAÇÃO: Sugira ao usuário que aguarde acumular um volume de pelo menos 5 (cinco) itens para descarte. Isso viabiliza e otimiza a logística de coleta.
+
+== ATENÇÃO: REGRA CRÍTICA SOBRE TONERS ==
+NÃO FAÇA: Nunca oriente o cliente a realizar o descarte de TONER em lixo comum ou descarte ecológico por conta própria.
+AÇÃO OBRIGATÓRIA: Para o item TONER, o registro do chamado para recolhimento pela empresa é sempre obrigatório.
+
+== PASSO 3: ENCERRAMENTO DO CHAMADO ==
+DESCRIÇÃO: Ao finalizar o registro, revise todas as informações.
+
+-- Checklist de Encerramento --
+1. Verifique se todas as informações da sondagem foram inseridas corretamente na descrição do chamado no SDM.
+2. Anexe todas as evidências relevantes (ex: e-mails trocados com o cliente).
+3. Informe ao usuário o número do chamado e confirme que o registro foi concluído.
+
+== CATEGORIZAÇÃO NO SDM ==
+
+-- Encaminhamento para Nível 2 (N2) --
+Origem: Telefone, E-mail, Web, Chat
+Tipo de Chamado: Requisição de Serviço
+Criticidade: Normal (C2) para situações gerais. Alta (C2) para locais em mudança ou sem espaço físico.
+Assunto: Coleta >> Coleta de Insumos >> Recolhimento de Carcaça
+Falha: Recolhimento de Carcaça
+Encaminhamento: Suporte Especializado >> Logística >> Reversa
+Diagnóstico: "Insumos Lexmark" ou "Insumos Epson" (Pode agrupar todos os itens Epson em um único diagnóstico).
+
+-- Finalização em Nível 1 (N1) - Caso o usuário opte pelo descarte --
+Origem: Telefone, E-mail, Web, Chat
+Tipo de Chamado: Requisição de Serviço
+Criticidade: Baixa (C2)
+Assunto: Coleta >> Coleta de Insumos >> Recolhimento de Carcaça
+Falha: Recolhimento de Carcaça
+Grupo: Central de Atendimento
+Diagnóstico: Insumos Lexmark
+Serviço: Orientado o Descarte
+
+== REFERÊNCIA DE ANEXOS ==
+Anexo A: Contém orientações para verificar chamados abertos.

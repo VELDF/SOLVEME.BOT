@@ -1,0 +1,6 @@
+[2025-06-13 00:03:46,263] INFO in app: Requisição recebida: GET /
+[2025-06-13 00:03:46,265] INFO in app: Acesso à rota raiz
+[2025-06-13 00:03:46,441] INFO in app: Requisição recebida: GET /favicon.ico
+[2025-06-13 00:03:46,442] WARNING in app: Rota não encontrada: /favicon.ico
+[2025-06-13 00:11:14,005] INFO in app: Requisição recebida: GET /
+[2025-06-13 00:11:14,006] INFO in app: Acesso à rota raiz

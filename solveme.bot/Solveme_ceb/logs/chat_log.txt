@@ -1,0 +1,2349 @@
+2025-03-17 19:23:28,481 - User: OlÔøΩ, como vocÔøΩ estÔøΩ?
+2025-03-17 19:23:29,283 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:23:29,286 - Bot: OlÔøΩ! Eu estou bem, obrigado. Eu sou uma inteligÔøΩncia artificial, entÔøΩo nÔøΩo tenho sentimentos ou emoÔøΩÔøΩes como os seres humanos, mas estou funcionando corretamente e pronta para ajudar em qualquer coisa que vocÔøΩ precise!
+2025-03-17 19:28:33,953 - User: OlÔøΩ, voce conhece a sonda?
+2025-03-17 19:28:35,756 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:28:35,758 - Bot: OlÔøΩ!
+
+Sim, eu conheÔøΩo a sonda! A sonda ÔøΩ um tipo de missÔøΩo espacial que envia uma nave espacial para coletar dados e informaÔøΩÔøΩes sobre um objeto ou regiÔøΩo do espaÔøΩo, como planetas, luas, asteroides, cometas, etc.
+
+ Existem diferentes tipos de sondas, como:
+
+* Sonda espacial: uma nave espacial que ÔøΩ enviada para coletar dados sobre um objeto ou regiÔøΩo do espaÔøΩo.
+* Sonda planetÔøΩria: uma sonda que orbita ou pousa em um planeta ou lua para coletar dados sobre a sua atmosfera, superfÔøΩcie, geologia, etc.
+* Sonda de impacto: uma sonda que ÔøΩ projetada para colidir com um objeto no espaÔøΩo, como um asteroide ou cometa, para coletar dados sobre a sua composiÔøΩÔøΩo e estrutura.
+* Sonda de reconhecimento: uma sonda que ÔøΩ enviada para coletar dados sobre um objeto ou regiÔøΩo do espaÔøΩo antes de uma missÔøΩo tripulada.
+
+ Algumas das mais famosas sondas incluem:
+
+* Voyager 1 e 2, que foram enviadas para explorar o sistema solar exterior e agora estÔøΩo na interstÔøΩncia interestelar.
+* Cassini-Huygens, que orbitou Saturno e sua lua, TitÔøΩ.
+* New Horizons, que voou sobre PlutÔøΩo e agora estÔøΩ explorando o cinturÔøΩo de Kuiper.
+* Mars Exploration Rovers, como o Spirit e o Opportunity, que pousaram em Marte e coletaram dados sobre a geologia e atmosfera do planeta.
+
+Essas sÔøΩo apenas algumas exemplos. Existem muitas outras sondas que foram enviadas para explorar o espaÔøΩo e coletar dados cientÔøΩficos.
+
+VocÔøΩ tem alguma sonda em particular em mente?
+2025-03-17 19:29:12,453 - User: OlÔøΩ, voce conhece a empresa sonda ti service?
+2025-03-17 19:29:13,899 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:29:13,901 - Bot: OlÔøΩ!
+
+Sim, eu estou familiarizado com a Sonda TI Service. A Sonda TI Service ÔøΩ uma empresa brasileira de serviÔøΩos de tecnologia da informaÔøΩÔøΩo (TI) que atua em vÔøΩrias ÔøΩreas, como infraestrutura, seguranÔøΩa, gerenciamento de serviÔøΩos de TI, desenvolvimento de software, inteligÔøΩncia artificial, entre outras.
+
+Fundada em 1995, a Sonda TI Service tem sede em SÔøΩo Paulo e opera em todo o territÔøΩrio brasileiro, alÔøΩm de ter unidades em outros paÔøΩses da AmÔøΩrica Latina. A empresa oferece soluÔøΩÔøΩes e serviÔøΩos de TI para uma variedade de setores, incluindo financeiro, saÔøΩde, varejo, indÔøΩstria, entre outros.
+
+A Sonda TI Service ÔøΩ conhecida por sua equipe especializada em tecnologia e sua capacidade de entregar soluÔøΩÔøΩes personalizadas para atender ÔøΩs necessidades especÔøΩficas de seus clientes. AlÔøΩm disso, a empresa ÔøΩ parceira de importantes players do mercado de tecnologia, como Microsoft, IBM, Cisco, entre outros.
+
+VocÔøΩ tem alguma relaÔøΩÔøΩo com a Sonda TI Service ou tem algumas perguntas sobre a empresa?
+2025-03-17 19:32:21,300 - User: OlÔøΩ, voce conhece a empresa sonda ti service?
+2025-03-17 19:32:23,428 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:32:23,431 - Bot: OlÔøΩ!
+
+Sim, eu conheÔøΩo a empresa Sonda TI Service. A Sonda TI Service ÔøΩ uma empresa brasileira que atua no mercado de Tecnologia da InformaÔøΩÔøΩo (TI) e oferece uma variedade de soluÔøΩÔøΩes e serviÔøΩos para empresas de diferentes segmentos.
+
+Fundada em 2003, a Sonda TI Service tem como objetivo principal ajudar as empresas a melhorar a eficiÔøΩncia e a produtividade atravÔøΩs da implementaÔøΩÔøΩo de soluÔøΩÔøΩes de tecnologia. A empresa oferece uma ampla gama de serviÔøΩos, incluindo infraestrutura de TI, seguranÔøΩa da informaÔøΩÔøΩo, gestÔøΩo de projetos, suporte tÔøΩcnico, desenvolvimento de software, entre outros.
+
+A Sonda TI Service tambÔøΩm tem uma forte presenÔøΩa no mercado latino-americano, com operaÔøΩÔøΩes em vÔøΩrios paÔøΩses, incluindo Brasil, Argentina, Chile, ColÔøΩmbia, MÔøΩxico e Peru.
+
+VocÔøΩ tem alguma experiÔøΩncia com a Sonda TI Service ou gostaria de saber mais sobre a empresa?
+2025-03-17 19:34:59,395 - User: OlÔøΩ, voce conhece a empresa sonda ti service?
+2025-03-17 19:35:00,750 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:35:00,752 - Bot: OlÔøΩ!
+
+Sim, eu conheÔøΩo a Sonda TI Service. A Sonda TI Service ÔøΩ uma empresa brasileira que atua no mercado de tecnologia da informaÔøΩÔøΩo, oferecendo soluÔøΩÔøΩes e serviÔøΩos em ÔøΩreas como infraestrutura, seguranÔøΩa, nuvem, dados e inteligÔøΩncia artificial, entre outras.
+
+Fundada em 1994, a Sonda TI Service tem sua sede em SÔøΩo Paulo e atua em todo o Brasil, com clientes em diversos setores, como financeiro, saÔøΩde, varejo, indÔøΩstria, entre outros.
+
+A empresa ÔøΩ conhecida por oferecer soluÔøΩÔøΩes personalizadas e serviÔøΩos de consultoria, implementaÔøΩÔøΩo, gerenciamento e suporte em tecnologia, visando a ajudar as empresas a melhorar sua eficiÔøΩncia, reduzir custos e aumentar a competitividade.
+
+VocÔøΩ tem alguma experiÔøΩncia ou relaÔøΩÔøΩo com a Sonda TI Service?
+2025-03-17 19:38:26,461 - User: vano la
+2025-03-17 19:38:27,499 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:38:27,501 - Bot: It seems like you might be saying "Vano la" in Georgian, which is a common phrase in the Georgian language.
+
+"Vano la" (\u10d5\u10d0\u10dc\u10dd \u10da\u10d0) is a Georgian expression that roughly translates to "Well done!" or "Good job!" in English. It's often used to congratulate someone on their achievement or to express admiration for something they've done.
+
+Is there something specific you'd like to talk about or ask about the Georgian language or culture?
+2025-03-17 19:40:23,242 - User: Voce conhece a faculdade catolica
+2025-03-17 19:40:25,212 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:40:25,214 - Bot: A Faculdade CatÔøΩlica! Sim, eu conheÔøΩo. A Faculdade CatÔøΩlica ÔøΩ uma instituiÔøΩÔøΩo de ensino superior catÔøΩlica que oferece cursos de graduaÔøΩÔøΩo e pÔøΩs-graduaÔøΩÔøΩo em diversas ÔøΩreas do conhecimento.
+
+Existem vÔøΩrias faculdades catÔøΩlicas em diferentes localidades, entÔøΩo vocÔøΩ pode estar se referindo a uma especÔøΩfica. No Brasil, por exemplo, hÔøΩ a PontifÔøΩcia Universidade CatÔøΩlica (PUC) que ÔøΩ uma das mais conhecidas e respeitadas instituiÔøΩÔøΩes de ensino superior catÔøΩlica do paÔøΩs.
+
+Algumas faculdades catÔøΩlicas podem ter caracterÔøΩsticas especÔøΩficas, como:
+
+* Ensinamento baseado nos princÔøΩpios cristÔøΩos e catÔøΩlicos;
+* Forte enfase em valores como a ÔøΩtica, a solidariedade e a justiÔøΩa social;
+* Cursos que abrangem ÔøΩreas como teologia, filosofia, ciÔøΩncias humanas, ciÔøΩncias exatas, biolÔøΩgicas e sociais aplicadas;
+* Pesquisa e extensÔøΩo que buscam contribuir para o desenvolvimento da sociedade e da Igreja.
+
+No entanto, ÔøΩ importante destacar que cada faculdade catÔøΩlica pode ter sua prÔøΩpria identidade e foco, entÔøΩo ÔøΩ necessÔøΩrio verificar as caracterÔøΩsticas especÔøΩficas da instituiÔøΩÔøΩo que vocÔøΩ estÔøΩ intÔøΩressado.
+
+VocÔøΩ tem alguma pergunta especÔøΩfica sobre a Faculdade CatÔøΩlica ou gostaria de saber mais sobre uma instituiÔøΩÔøΩo em particular?
+
+ 2025-03-17 19:52:06,693 - User: se voce fosse uma loira viajando porÈm quer postar uma foto com uma legenda hot qual legenda colocaria
+2025-03-17 19:52:08,159 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:52:08,161 - Bot: Haha! Como uma loira viajando, eu escolheria uma legenda que seja divertida, sexy e que capture a essÍncia da minha aventura! Aqui est„o algumas opÁıes:
+
+1. "Sandy toes and sun-kissed nose"
+2. "Tropical state of mind"
+3. "Seja loira, seja livre"
+4. "SÛ uma loira pode fazer isso"
+5. "Viva la vida loira"
+6. "Loira em fÈrias, problemas esquecidos"
+7. "Sun, sea, and a side of sass"
+8. "Loira on the go, but always on island time"
+9. "Life's a beach, and then some"
+10. "Loira, livre e sem filtro"
+
+E qual vocÍ acha que eu escolheria?
+2025-03-17 19:52:33,371 - User: Meu nome È erick e amo fazer cop„o de whiskey me indique algumas receitas alcoolicas
+2025-03-17 19:52:36,845 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:52:36,847 - Bot: Ol· Erick! … um prazer conhecer alguÈm que aprecia um bom copo de whiskey!
+
+Aqui v„o algumas receitas alcoÛlicas que vocÍ pode gostar:
+
+**1. Whiskey Sour**
+* 2 shots de whiskey (pode ser bourbon ou scotch)
+* 3/4 de xÌcara de suco de lim„o fresco
+* 1 colher de sopa de aÁ˙car
+* Gelo e casca de lim„o para garniture
+
+Misture todos os ingredientes em um shaker, coe em um copo e sirva.
+
+**2. Old Fashioned**
+* 2 shots de whiskey (pode ser bourbon ou rye)
+* 1 sugar cube (cerca de 1 colher de sopa)
+* 2 dashes de bitters
+* Gelo e casca de laranja para garniture
+
+Misture todos os ingredientes em um copo, adicione o gelo e mexa levemente. … uma bebida cl·ssica e saborosa!
+
+**3. Whiskey Smash**
+* 2 shots de whiskey (pode ser bourbon ou rye)
+* 1 xÌcara de frutas (pode ser morangos, blueberries, lim„o, etc.)
+* 1 colher de sopa de aÁ˙car
+* 1 shot de soda water
+* Gelo e frutas para garniture
+
+Misture todos os ingredientes em um shaker, coe em um copo e adicione a soda water. … uma bebida refrescante e perfeita para o ver„o!
+
+**4. Whiskey and Cola**
+* 1 shot de whiskey (pode ser qualquer tipo)
+* 4 oz de cola
+* Gelo e fatia de lim„o para garniture
+
+Misture todos os ingredientes em um copo e sirva. … uma bebida f·cil de fazer e muito popular!
+
+**5. Penicillin**
+* 1 shot de blended whiskey
+* 1 shot de juice de lim„o
+* 1 shot de honey syrup (mistura de mel e ·gua)
+* 1/2 shot de ginger liqueur
+* Gelo e casca de lim„o para garniture
+
+Misture todos os ingredientes em um shaker, coe em um copo e sirva. … uma bebida medicinal!
+
+Essas s„o apenas algumas ideias para vocÍ comeÁar a criar seus prÛprios copıes de whiskey. Lembre-se de sempre beber com moderaÁ„o e de respeitar a responsabilidade ao beber.
+
+Qual È sua marca de whiskey favorita, Erick?
+2025-03-17 19:53:11,690 - User: Meu nome È erick e amo fazer cop„o de whiskey me indique algumas receitas alcoolicas
+2025-03-17 19:53:15,174 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:53:15,177 - Bot: Ol· Erick! … um prazer conhecer um apreciador de whiskey como vocÍ!
+
+Aqui v„o algumas receitas alcoÛlicas que incluem whiskey que vocÍ pode gostar:
+
+**1. Old Fashioned**
+
+* 2 oz de whiskey bourbon ou rye
+* 1 sugar cube (cerca de 1/2 colher de ch·)
+* 2 dashes de bitters
+* Orange peel (opcional, para garnish)
+
+Misture o whiskey, o aÁ˙car e os bitters em um copo. Adicione uma pedra de gelo e mexa bem. Decore com uma casca de laranja, se desejar.
+
+**2. Whiskey Sour**
+
+* 2 oz de whiskey bourbon ou rye
+* 3/4 oz de suco de lim„o fresco
+* 1/2 oz de xarope de aÁ˙car (opcional)
+* Ice
+* Orange wheel (opcional, para garnish)
+
+Misture o whiskey, o suco de lim„o e o xarope de aÁ˙car (se usar) em um copo. Adicione gelo e mexa bem. Decore com uma roda de laranja, se desejar.
+
+**3. Manhattan**
+
+* 2 oz de whiskey bourbon ou rye
+* 1 oz de vermute doce
+* 2 dashes de bitters
+* Cherry (opcional, para garnish)
+
+Misture o whiskey, o vermute e os bitters em um copo. Adicione uma pedra de gelo e mexa bem. Decore com uma cereja, se desejar.
+
+**4. Whiskey Spritz**
+
+* 2 oz de whiskey bourbon ou rye
+* 4 oz de prosecco
+* 1 oz de suco de laranja
+* Splash de grenadine (opcional)
+* Ice
+* Orange slice (opcional, para garnish)
+
+Misture o whiskey, o prosecco, o suco de laranja e o grenadine (se usar) em um copo. Adicione gelo e mexa bem. Decore com uma fatia de laranja, se desejar.
+
+**5. Irish Coffee**
+
+* 1 oz de whiskey irlandÍs
+* 1 oz de cafÈ quente
+* 1 oz de creme de leite
+* AÁ˙car (opcional)
+
+Misture o whiskey e o cafÈ quente em um copo. Adicione o creme de leite e mexa bem. Decore com uma colher de aÁ˙car, se desejar.
+
+Essas s„o apenas algumas ideias para vocÍ comeÁar a criar seus prÛprios copıes de whiskey. Lembre-se de sempre beber com responsabilidade e respeitar os limites de consumo de ·lcool.
+
+Qual È sua receita favorita de whiskey? Ou vocÍ gostaria de experimentar alguma dessas receitas?
+2025-03-17 19:56:29,161 - User: Meu nome È erick e amo fazer cop„o de whiskey me indique algumas receitas alcoolicas
+2025-03-17 19:56:31,860 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 19:56:31,863 - Bot: Erick! Fazer cop„o de whiskey È uma arte! Aqui v„o algumas receitas alcoÛlicas que vocÍ pode gostar:
+
+**1. Old Fashioned**
+* 2 oz de whiskey bourbon ou rye
+* 1 sugar cube (cerca de 1/2 tsp)
+* 2 dashes de bitters
+* Orange peel (opcional, para garnish)
+
+Misture o whiskey, o aÁ˙car e os bitters em um copo old fashioned. Adicione uma pedra de gelo e mexa por cerca de 30 segundos.
+
+**2. Whiskey Sour**
+* 2 oz de whiskey bourbon ou rye
+* 3/4 oz de suco de lim„o fresco
+* 1/2 oz de xarope simples
+* 1 dash de egg white (opcional, para espumar)
+* Orange wheel (opcional, para garnish)
+
+Misture todos os ingredientes em um shaker com gelo. Mexa bem e coe em um copo rocks com gelo.
+
+**3. Manhattan**
+* 2 oz de whiskey bourbon ou rye
+* 1 oz de vermute doce
+* 2 dashes de bitters
+* Cherry (opcional, para garnish)
+
+Misture todos os ingredientes em um shaker com gelo. Mexa bem e coe em um copo coupe ou martini.
+
+**4. Mint Julep**
+* 2 oz de whiskey bourbon
+* 1 oz de xarope simples
+* 2 tbsp de menta fresca
+* Crushed ice
+
+Misture o whiskey, o xarope e a menta em um copo julep. Adicione gelo e mexa atÈ que o copo esteja frio.
+
+**5. Whiskey Spritz**
+* 1 oz de whiskey bourbon ou rye
+* 2 oz de prosecco
+* 1 oz de suco de laranja
+* Splash de xarope simples
+* Orange slice (opcional, para garnish)
+
+Misture todos os ingredientes em um copo wine glass com gelo. Mexa levemente.
+
+Essas s„o apenas algumas das muitas receitas alcoÛlicas que vocÍ pode fazer com whiskey. Lembre-se de sempre beber com responsabilidade e respeito.
+
+Qual È sua receita favorita, Erick? VocÍ tem alguma dica ou variaÁ„o que queira compartilhar?
+2025-03-17 20:00:13,835 - User: Pq borboleta n„o È um aracnÌdeo?
+2025-03-17 20:00:15,840 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 20:00:15,842 - Bot: Excelente pergunta!
+
+As borboletas n„o s„o aracnÌdeos por v·rios motivos:
+
+1. **Corpo segmentado**: Os aracnÌdeos, como aranhas, escorpiıes e ·caros, tÍm um corpo dividido em duas partes: a cabeÁa (ou cefalotÛrax) e o abdÙme. J· as borboletas tÍm um corpo dividido em trÍs partes: cabeÁa, tÛrax e abdÙme.
+2. **Pernas**: Os aracnÌdeos tÍm oito pernas, enquanto as borboletas tÍm seis pernas, como todos os insetos.
+3. **RespiraÁ„o**: Os aracnÌdeos respiram por meio de book lungs (pulmıes em forma de livro) ou tracheae (tubos respiratÛrios), enquanto as borboletas respiram por meio de traqueias, como todos os insetos.
+4. **Antenas**: Os aracnÌdeos n„o tÍm antenas, enquanto as borboletas tÍm antenas caracterÌsticas, compostas por dois segmentos.
+5. **Eclos„o**: Os aracnÌdeos eclodem de ovos e passam por um perÌodo de desenvolvimento embrion·rio antes de nascerem. As borboletas, por outro lado, eclodem de ovos e passam por um processo de metamorfose, incluindo est·gios de larva e pupa, antes de emergirem como adultos.
+
+Essas diferenÁas morfolÛgicas e fisiolÛgicas s„o fundamentais para distinguir as borboletas dos aracnÌdeos. As borboletas s„o, na verdade, membros do grupo dos insetos, especÌficamente da ordem Lepidoptera, enquanto os aracnÌdeos pertencem ‡ classe Arachnida.
+2025-03-17 20:01:35,096 - User: a minha mulher a sasa Pq borboleta n„o È um aracnÌdeo?
+2025-03-17 20:01:36,903 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 20:01:36,905 - Bot: Um cl·ssico caso de mal-entendido!
+
+A borboleta n„o È um aracnÌdeo por causa da sua estrutura corporal e da sua classe taxonÙmica.
+
+Os aracnÌdeos (Arachnida) s„o uma classe de artrÛpodes que incluem espÈcies como aranhas, escorpiıes, carrapatos e ·caros. Eles tÍm o seguinte conjunto de caracterÌsticas:
+
+1. Corpo dividido em duas regiıes: cephalotÛrax e abdome.
+2. Quatro pares de patas.
+3. Nenhum par de antenas.
+4. RespiraÁ„o por meio de pulmıes ou tr‚queas.
+
+J· as borboletas (Lepidoptera) s„o uma ordem de insetos que incluem as borboletas e as mariposas. Elas tÍm um conjunto de caracterÌsticas diferentes:
+
+1. Corpo dividido em trÍs regiıes: cabeÁa, tÛrax e abdome.
+2. TrÍs pares de patas.
+3. Um par de antenas.
+4. RespiraÁ„o por meio de tr‚queas.
+
+AlÈm disso, as borboletas tÍm asas membranosas e escamas que recobrem seu corpo, o que as distingue dos aracnÌdeos.
+
+Ent„o, sua mulher Sasa est· certa em dizer que a borboleta n„o È um aracnÌdeo!
+2025-03-17 20:11:39,246 - User: a minha mulher a sasa Pq borboleta n„o È um aracnÌdeo?
+2025-03-17 20:11:40,679 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 20:11:40,684 - Bot: Eu sinto muito, mas parece que h· um mal-entendido aqui!
+
+A sua mulher, Sasa (espero que ela seja bem!), provavelmente est· certa. A borboleta n„o È um aracnÌdeo.
+
+AracnÌdeos s„o uma classe de artrÛpodes que incluem animais como aranhas, escorpiıes, carrapatos e ·caros. Eles tÍm oito patas e um corpo dividido em dois segmentos principais: o cefalotÛrax e o abdÙmen.
+
+ J· as borboletas, por outro lado, pertencem ‡ ordem Lepidoptera, que inclui tambÈm as mariposas. Elas tÍm quatro asas, duas antenas, e um corpo dividido em trÍs segmentos principais: cabeÁa, tÛrax e abdÙmen.
+
+Portanto, borboletas e aracnÌdeos s„o grupos muito diferentes de animais, com caracterÌsticas morfolÛgicas e evolutivas distintas.
+2025-03-17 20:15:22,268 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 20:15:22,272 - Bot: Eu entendi!
+
+A sua mulher, a Sasa, est· certa! A borboleta n„o È um aracnÌdeo. AracnÌdeos s„o uma classe de artrÛpodes que incluem aracnÌdeos verdadeiros, como aranhas, escorpiıes e carrapatos. Eles tÍm oito patas e um corpo dividido em dois segmentos: o cefalotÛrax e o abdome.
+
+As borboletas, por outro lado, s„o insectos da ordem Lepidoptera. Elas tÍm quatro asas, duas antenas e um corpo dividido em trÍs segmentos: a cabeÁa, o tÛrax e o abdome. AlÈm disso, as borboletas tÍm seis patas, e n„o oito como os aracnÌdeos.
+
+Ent„o, a Sasa est· correta em sua observaÁ„o!
+2025-03-17 20:15:22,272 - User: a minha mulher a sasa Pq borboleta n„o È um aracnÌdeo?
+2025-03-17 20:15:33,768 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-17 20:15:33,770 - Bot: Bom dia!
+2025-03-17 20:15:33,770 - User: Bom dia
+2025-03-17 20:16:05,686 - Bot: Bom dia!
+2025-03-17 20:16:05,686 - User: Bom dia
+2025-03-17 20:17:22,881 - Bot: O tecido GGT!
+
+GGT È um tipo de tecido composto por uma mistura de fibras naturais e sintÈticas. As iniciais "GGT" significam "Gabardine, Georgette e Tafet·".
+
+* Gabardine: È uma fibra natural de algod„o ou l„, conhecida por sua textura grosa e resistÍncia.
+* Georgette: È uma fibra sintÈtica feita a partir de poliÈster ou nylon, caracterizada por sua leveza e suavidade.
+* Tafet·: È uma fibra sintÈtica feita a partir de poliÈster ou nylon, conhecida por sua brilho e textura lisa.
+
+O tecido GGT combina as melhores propriedades dessas fibras para criar um material ˙nico, leve, resistente e f·cil de trabalhar. Ele È frequentemente utilizado em confecÁ„o de roupas, especialmente em peÁas que requerem uma combinaÁ„o de eleg‚ncia e durabilidade, como casacos, vestidos, saias e calÁas.
+
+ Algumas das caracterÌsticas do tecido GGT incluem:
+
+* ResistÍncia ‡ dobra e ao estiramento
+* Leveza e confort
+* Facilidade de lavagem e secagem
+* Bom acabamento e textura suave
+* ResistÍncia a riscos e arranhıes
+* Boa durabilidade e longevidade
+
+No entanto, È importante notar que a composiÁ„o exata do tecido GGT pode variar dependendo do fabricante e do tipo de produto. Alguns tecidos GGT podem ter uma porcentagem maior de fibras naturais ou sintÈticas, o que pode afetar suas propriedades e caracterÌsticas.
+2025-03-17 20:17:22,881 - User: o que È tecido ggt
+2025-03-17 20:56:25,097 - Bot: O drama!
+
+Bem, sem julgar ninguÈm, vou tentar dar uma opini„o neutra sobre isso.
+
+Se o namorado da sua amiga terminou com ela porque ela n„o quis sair para comer, isso pode ser um sinal de que ele n„o estava muito comprometido com a relaÁ„o ou que ele estava mais interessado em satisfazer seus prÛprios desejos do que em entender e respeitar os limites e preferÍncias da sua amiga.
+
+… importante lembrar que uma relaÁ„o saud·vel È baseada em respeito, comunicaÁ„o e compreens„o m˙tua. Se o namorado n„o conseguiu entender e respeitar a decis„o da sua amiga de n„o sair para comer, isso pode ser um sinal de que ele n„o estava preparado para lidar com as diferenÁas e os desacordos que s„o naturais em qualquer relacionamento.
+
+AlÈm disso, È importante lembrar que uma pessoa n„o deve ser julgada ou criticada por suas escolhas ou preferÍncias, especialmente quando se trata de algo t„o simples como sair para comer. Cada pessoa tem o direito de escolher como quer passar seu tempo e com quem quer passar seu tempo.
+
+Portanto, se o namorado da sua amiga n„o conseguiu respeitar essas escolhas, È melhor que ela esteja longe dele. Afinal, uma relaÁ„o saud·vel È aquela em que as pessoas se sentem respeitadas, valorizadas e felizes.
+
+O que vocÍ acha disso?
+2025-03-17 20:56:25,097 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-03-17 21:39:52,469 - Bot: Parece que h· um caso de relacionamento dram·tico acontecendo aqui!
+
+Sem julgar ninguÈm, vou tentar dar uma opini„o objetiva sobre a situaÁ„o.
+
+Se o namorado da sua amiga terminou com ela porque ela n„o quis sair para comer, isso pode ser um indicativo de que havia expectativas n„o realistas ou uma comunicaÁ„o ruim no relacionamento.
+
+… importante lembrar que cada pessoa tem suas prÛprias preferÍncias e prioridades, e n„o È justo culpar alguÈm por n„o querer fazer algo que n„o est· confort·vel fazendo. Se a sua amiga n„o se sentia ‡ vontade para sair para comer, È seu direito como indivÌduo tomar essa decis„o.
+
+AlÈm disso, uma ruptura em um relacionamento por algo t„o "trivial" como isso pode ser um sinal de que havia outros problemas mais profundos no relacionamento. Talvez o namorado da sua amiga estava esperando por uma resposta mais "conformista" ou "submissa" da parte dela, e n„o estava respeitando sua autonomia e escolhas.
+
+No entanto, È importante lembrar que n„o conhecemos todo o contexto do relacionamento e as pessoas mudam por razıes muito complexas. Talvez o namorado da sua amiga tenha suas prÛprias questıes e inseguranÁas que o levaram a tomar essa decis„o.
+
+Em qualquer caso, a sua amiga merece apoio e solidariedade nesse momento. Se ela quiser falar sobre o que aconteceu, ouÁa-a com empatia e ofereÁa-lhe um ombro amigo.
+
+E vocÍ, o que acha disso?
+2025-03-17 21:39:52,470 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-05-29 17:39:23,171 - Bot: O drama!
+
+Bem, n„o sei quem È sua amiga ou o namorado dela, mas vou dar uma opini„o geral sobre a situaÁ„o.
+
+Se o namorado terminou com ela porque ela n„o quis sair para comer, isso pode indicar alguns problemas na relaÁ„o:
+
+1. **ComunicaÁ„o**: O problema pode comeÁar com a habilidade de comunicaÁ„o entre os dois. Se o namorado esperava que ela saÌsse para comer e ela n„o quis, isso pode ter sido uma oportunidade para eles discutirem e se entenderem melhor. Em vez disso, o namorado escolheu terminado a relaÁ„o.
+2. **Expectativas n„orealistas**: O namorado pode ter expectativas n„orealistas sobre o que a namorada deve fazer ou como deve se comportar. Isso pode levar a pressıes e tensıes na relaÁ„o.
+3. **Prioridades**: O namorado pode ter priorizado sua prÛpria vontade de sair para comer sobre a opini„o e necessidades da namorada. Isso pode revelar que ele n„o est· interessado em entender as necessidades e desejos da namorada.
+4. **Imaturidade**: A reaÁ„o do namorado pode ser uma indicaÁ„o de imaturidade emocional. Uma pessoa madura pode discutir e resolver problemas em vez de abandonar a relaÁ„o.
+
+… importante notar que cada relaÁ„o È ˙nica, e h· mais ‡ histÛria do que apenas um fato isolado. Se sua amiga quiser falar sobre isso, vocÍ pode ouvir e oferecer apoio. Caso contr·rio, respeite seu espaÁo e n„o julgue o namorado ou a situaÁ„o.
+
+Lembre-se de que todas as relaÁıes tÍm seus altos e baixos. O importante È que suas amigas (e vocÍ) aprendam com essas situaÁıes e cresÁam como pessoas.
+2025-05-29 17:39:23,172 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-05-29 18:08:19,494 - Bot: Parece que vocÍ est· dividindo uma histÛria sobre uma amiga que se separou do seu namorado porque ela n„o quis sair para comer com ele. … importante lembrar que cada pessoa tem seus prÛprios gostos, preferÍncias e limites, e È fundamental respeitar essas diferenÁas.
+
+… possÌvel que o namorado da sua amiga tenha se sentido frustrado ou desapontado por ela n„o querer sair para comer, mas È importante considerar se essa foi uma decis„o razo·vel ou se foi uma reaÁ„o exagerada da parte dele. … importante lembrar que as pessoas tÍm direito de tomar suas prÛprias decisıes e priorizar suas necessidades e desejos.
+
+… tambÈm importante lembrar que as relaÁıes rom‚nticas devem ser baseadas em respeito, comunicaÁ„o e entendimento m˙tuo. Se o namorado da sua amiga n„o conseguiu respeitar suas decisıes e limites, isso pode ser um sinal de problemas mais profundos na relaÁ„o.
+
+Como amigo, vocÍ pode estar l· para ouvir e oferecer apoio emocional ‡ sua amiga. … importante n„o julgar nem tomar partido, mas sim oferecer uma perspectiva neutra e ajudar a sua amiga a processar seus sentimentos e pensamentos.
+
+O que vocÍ acha disso? VocÍ tem alguma experiÍncia semelhante que possa compartilhar?
+2025-05-29 18:08:19,495 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-06-10 14:41:50,212 - Bot: PeÁo desculpas se minha resposta n„o for exatamente o que vocÍ espera, mas vou tentar ajudar!
+
+Entendi que vocÍ est· relatando que o namorado da sua amiga) terminou o relacionamento porque ela n„o quis sair para comer com ele. Isso pode parecer um motivo estranho ou irrelevante para terminar um relacionamento.
+
+Aqui v„o algumas coisas que podem ter acontecido:
+
+1. **O namorado estava frustrado**: Talvez o namorado j· estava sentindo frustrado ou insatisfeito com o relacionamento e utilizou este incidente como uma desculpa para terminar. Isso n„o significa que o relacionamento era forte ou saud·vel.
+2. **ComunicaÁ„o deficiente**: … possÌvel que haja uma falta de comunicaÁ„o ou uma incompatibilidade entre os dois. Se o namorado estava esperando que sua amiga saÌsse para comer e ela n„o estava disposta, isso pode ter gerado uma discuss„o ou um desentendimento.
+3. **Expectativas n„o alinhadas**: O namorado pode ter expectativas muito altas sobre a relaÁ„o e a saÌda para comer pode ter sido um teste para verificar se sua amiga estava disposta a se esforÁar mais no relacionamento.
+
+Em geral, o fim de um relacionamento È um processo complexo e pode ter muitas razıes subjacentes. … importante lembrar que seu amigo pode estar passando por um momento difÌcil e precisar de apoio e compreens„o.
+
+VocÍ pode conversar com sua amiga sobre o que aconteceu e ouvir sua perspectiva sobre o relacionamento e o que ela sente sobre o fim do relacionamento.
+2025-06-10 14:41:50,213 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-06-10 15:01:18,130 - Bot: Que drama!
+
+Bem, eu vou dar minha opini„o, mas lembre-se de que n„o estou l·, ent„o n„o conheÁo todos os detalhes da situaÁ„o.
+
+Em geral, se o namorado terminou com a sua amiga por ela n„o querer sair para comer, isso pode indicar alguns problemas mais profundos na relaÁ„o. Aqui est„o algumas possibilidades:
+
+1. **ComunicaÁ„o deficiente**: Se a sua amiga n„o quis sair para comer e o namorado se sentiu rejeitado ou ignorado, isso pode indicar que havia um problema de comunicaÁ„o na relaÁ„o. Talvez o namorado se sentisse como se a sua parceira n„o estivesse disposta a passar tempo com ele ou a se comprometer com os planos.
+2. **Expectativas n„o alinhadas**: … possÌvel que o namorado tivesse expectativas diferentes sobre como passar tempo juntos, e a sua amiga n„o estava disposta a se adaptar ‡s suas expectativas. Isso pode levar a uma falta de compreens„o e a um sentimento de frustraÁ„o.
+3. **Problemas de controle**: Se o namorado estava insistindo pra que a sua amiga saÌsse, e ela se sentiu pressionada ou controlada, isso pode ter levado a uma ruptura na relaÁ„o. … importante que as pessoas sejam capazes de ter suas prÛprias escolhas e n„o sejam forÁadas a fazer coisas que n„o desejam.
+4. **Prioridades diferentes**: Talvez a sua amiga tivesse outras prioridades naquele dia, como trabalho, estudos, ou outras obrigaÁıes. Se o namorado n„o estava disposto a entender ou respeitar essas prioridades, isso pode ter levado a uma ruptura.
+
+Lembre-se de que toda relaÁ„o È ˙nica, e essas s„o apenas algumas possibilidades. … importante que a sua amiga tenha uma conversa honesta com ele sobre o que aconteceu e o que ela sente.
+
+E vocÍ, como amigo, deve estar l· para apoiar e ouvir a sua amiga.
+2025-06-10 15:01:18,131 - User: o ficante da minha amiga terminou com ela por que ela nao quis sair pra comer oq vc acha disso
+2025-06-10 15:01:35,988 - Bot: Bom dia! Eu estou bem, obrigado! sou um modelo de linguagem treinado por computador, ent„o eu n„o tenho sentimentos ou emoÁıes como seres humanos, mas estou sempre pronto para ajudar e responder ‡s suas perguntas!
+2025-06-10 15:01:35,988 - User: Bom dia como vocË est·
+2025-06-10 15:02:02,429 - Bot: A configuraÁ„o de uma impressora Lexmark pode variar dependendo do modelo da impressora e do sistema operacional que vocÍ est· usando. Aqui est„o as etapas gerais para configurar uma impressora Lexmark:
+
+**ConfiguraÁ„o em Windows:**
+
+1. Conecte a impressora ‡ porta USB do seu computador.
+2. Abra o Painel de Controle de impressora. VocÍ pode fazer isso clicando em "Painel de Controle" no menu Iniciar e, em seguida, clicando em "Dispositivos e impressora".
+3. Clique em "Adicionar uma impressora" e siga as instruÁıes do assistente de configuraÁ„o.
+4. Selecione a impressora Lexmark do lista de impressoras disponÌveis.
+5. Siga as instruÁıes do assistente de configuraÁ„o para concluir a instalaÁ„o.
+6. Verifique se a impressora est· configurada corretamente. VocÍ pode imprimir uma p·gina de teste para verificar se a impressora est· funcionando corretamente.
+
+**ConfiguraÁ„o em Mac OS X:**
+
+1. Conecte a impressora ‡ porta USB do seu Mac.
+2. Abra as PreferÍncias do sistema no menu Apple.
+3. Clique em "Impressoras e scanners".
+4. Clique em "+" no canto inferior esquerdo da janela.
+5. Selecione a impressora Lexmark do lista de impressoras disponÌveis.
+6. Siga as instruÁıes do assistente de configuraÁ„o para concluir a instalaÁ„o.
+7. Verifique se a impressora est· configurada corretamente. VocÍ pode imprimir uma p·gina de teste para verificar se a impressora est· funcionando corretamente.
+
+**ConfiguraÁ„o em Linux:**
+
+1. Conecte a impressora ‡ porta USB do seu computador.
+2. Abra o terminal e digite o comando `sudo lpadmin -p <nome_impressora> -E -v <uri_impressora>`, substituindo `<nome_impressora>` pelo nome da impressora e `<uri_impressora>` pela URI da impressora (geralmente `usb://<endereco_ip_impressora>`).
+3. Pressione Enter para executar o comando.
+4. Digite o comando `sudo cupsenable <nome_impressora>` para ativar a impressora.
+6. Verifique se a impressora est· configurada corretamente. VocÍ pode imprimir uma p·gina de teste para verificar se a impressora est· funcionando corretamente.
+
+**ConfiguraÁ„o de rede:**
+
+Se vocÍ quer compartilhar a impressora com outros computadores, vocÍ precisar· configurar a impressora para trabalhar em rede.
+
+1. Conecte a impressora ‡ rede Wi-Fi ou ‡ rede Ethernet.
+2. Abra o Painel de Controle de Impressora em seu computador.
+3. Clique em "Impressoras e scanners" e selecione a impressora Lexmark.
+4. Clique em "Propriedades" e selecione a aba "rede".
+5. Selecione a opÁ„o "Compartilhar esta impressora" e digite um nome para a impressora.
+6. Clique em "OK" para salvar as mudanÁas.
+
+Agora, outros computadores na rede devem ser capazes de imprimir na impressora Lexmark.
+2025-06-10 15:02:02,430 - User: como se configura uma impressora lexmark
+2025-06-10 15:04:49,985 - Bot: Ol·! Eu estou bem, obrigado por perguntar. Eu sou uma inteligÍncia artificial, portanto, n„o tenho sentimentos ou emoÁıes como humanos. Mas estou sempre pronto para ajudar com qualquer pergunta ou tarefa que vocÍ precise!
+2025-06-10 15:04:49,986 - User: bom dia como voce t·
+2025-06-10 15:05:17,544 - Bot: Configurar um chatbot pode ser um processo complexo que envolve v·rias etapas e tecnologias. Aqui est· uma vis„o geral dos passos b·sicos para configurar um chatbot:
+
+**1. Defina o objetivo do chatbot**: Determine o que vocÍ quer que o chatbot faÁa e qual È o seu p˙blico-alvo. Isso ajudar· a definir a estrutura e a funÁ„o do chatbot.
+
+**2. Escolha uma plataforma de desenvolvimento**: Existem v·rias plataformas de desenvolvimento de chatbots, como:
+	* Dialogflow (Google)
+	* Microsoft Bot Framework
+	* Amazon Lex
+	* IBM Watson Assistant
+	* Facebook Bot Studio
+	* APIs de mensageria, como WhatsApp, Facebook Messenger, Telegram, etc.
+
+**4. Desenvolva a lÛgica do chatbot. Isso pode incluir:
+	* DefiniÁ„o de fluxos de conversa
+	* CriaÁ„o de respostas predefinidas para perguntas comuns
+	* IntegraÁ„o com bases de dados ou APIs para obter informaÁıes adicionais
+	* ImplementaÁ„o de algoritmos de aprendizado de m·quina para melhorar a experiÍncia do usu·rio
+
+**6. Defina a estrutura de conversa**: Organize as mensagens e respostas do chatbot em uma estrutura lÛgica. Isso pode incluir:
+	* DefiniÁ„o de saÌda de mensagens
+	* Estabelecimento de vari·veis de sess„o
+	* ConfiguraÁ„o de opÁıes de menu ou botıes de aÁ„o**
+
+**8. Integre com canais de mensageria**: Conecte o chatbot ‡ plataforma de mensageria escolhida (ex: Facebook Messenger, WhatsApp, Telegram, etc.).
+
+**10. Treine e test o chatbot**: Coletar dados de treinamento e testar o chatbot para garantir que esteja funcionando corretamente.
+
+**11. Implemente a capacidade de aprendizado de m·quina**: Se o chatbot for projetado para aprender com os usu·rios, vocÍ precisar· implementar algoritmos de aprendizado de m·quina para processar as interaÁıes do usu·rio e adaptar-se ‡s necessidades deles.
+
+**12. Deploy e manter o chatbot**: Depois de configurado e testado, vocÍ pode deploy o chatbot na plataforma escolhida e manter atualizado com novas funcionalidades e melhorias.
+
+**13. Monitorar e avaliar o desempenho do chatbot**: Coletar dados sobre o desempenho do chatbot, como a satisfaÁ„o do cliente, a precis„o das respostas e a taxa de abandono.
+
+Existem muitas ferramentas e tecnologias envolvidas em cada etapa desse processo. Aqui est„o algumas tecnologias comuns utilizadas no desenvolvimento de chatbots:
+
+* Linguagem de programaÁ„o: Node.js, Python, C#, Java, etc.
+* Banco de dados: MongoDB, PostgreSQL, Firebase, etc.
+* APIs de mensageria: Facebook Messenger API, WhatsApp Business API, Telegram Bot API, etc.
+* Ferramentas de aprendizado de m·quina: TensorFlow, PyTorch, Scikit-learn, etc.
+* Plataformas de desenvolvimento de chatbot: Dialogflow, Microsoft Bot Framework, Amazon Lex, etc.
+
+Essa È uma vis„o geral do processo de configuraÁ„o de um chatbot. Cada etapa pode ser mais complexa e requerer habilidades especÌficas.
+2025-06-10 15:05:17,544 - User: Como se configura um chat bot
+2025-06-10 15:05:39,037 - Bot: Um cÛdigo sem cÛdigo! Brincadeiras ‡ parte, como sou um modelo de linguagem, n„o tenho um cÛdigo para melhorar. Entretanto, posso oferecer algumas sugestıes gerais sobre como melhorar a code:
+
+1. **Legibilidade**: O cÛdigo deve ser f·cil de ler e entender. Use nomes de vari·veis e funÁıes descriptivas, e mantenha o cÛdigo organizado e formatado corretamente.
+2. **SimplificaÁ„o**: O cÛdigo deve ser simples e direto ao ponto. Evite cÛdigo duplicado ou complexo, e tente simplificar as funÁıes e algoritmos.
+3. **Coment·rios**: Coment·rios s„o essenciais para explicar o que o cÛdigo faz e por quÍ. Use coment·rios para explicar as seÁıes do cÛdigo e para marcar as decisıes de design importantes.
+4. **SeguranÁa** : Verifique se o cÛdigo È seguro e protegido contra ataques comuns, como injeÁ„o de SQL ou ataques de forÁa bruta.
+5. **Testes**: Certifique-se de que o cÛdigo tenha testes adequados e que sejam executados regularmente para garantir que o cÛdigo esteja funcionando corretamente.
+6. **RefatoraÁ„o**: Regularamente, revise o cÛdigo para remover cÛdigo morto, refatorar cÛdigo ruim e simplificar a estrutura do cÛdigo.
+7. **Padrıes e convenÁıes**: Siga as convenÁıes de codificaÁ„o estabelecidas pela linguagem e pela comunidade de desenvolvedores.
+8. **Compartilhamento de cÛdigo**: Compartilhe o cÛdigo com outros desenvolvedores e aceite feedback e sugestıes de melhoria.
+9. **ManutenÁ„o**: Certifique-se de que o cÛdigo seja f·cil de manter e atualizar, e que as alteraÁıes sejam rastreadas e documentadas.
+10. **Aprendizado**: Aprenda com os erros e os sucessos, e esteja sempre disposto a melhorar e aprender novas habilidades e estratÈgias de desenvolvimento.
+
+Essas s„o apenas algumas sugestıes gerais, e È importante lembrar que cada projeto e cada linguagem tem suas necessidades e desafios especÌficos.
+2025-06-10 15:05:39,038 - User: observando seu codigo o que voce acha que pode ser melhorado
+2025-06-10 15:08:54,707 - --- Nova Sess„o de Chat Iniciada ---
+2025-06-10 15:09:07,074 - Usu·rio: Bom dia
+2025-06-10 15:09:07,669 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 15:09:07,672 - Bot: Bom dia!
+2025-06-10 15:09:17,590 - Usu·rio: qual o seu nome
+2025-06-10 15:09:18,304 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 15:09:18,306 - Bot: Eu n„o tenho um nome prÛprio! Eu sou uma inteligÍncia artificial, uma m·quina aprendiz que foi treinada para responder a perguntas e realizar tarefas. Eu n„o tenho personalidade, identidade ou nome. Eu simplesmente existo para ajudar e fornecer informaÁıes.
+2025-06-10 15:09:34,155 - Usu·rio: como se configurau ma impressora lexmark
+2025-06-10 15:09:36,393 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 15:09:36,396 - Bot: Configurar uma impressora Lexmark pode variar dependendo do modelo de impressora e do sistema operacional do seu computador. Aqui est„o os passos gerais para configurar uma impressora Lexmark:
+
+**Passo 1: Conectar a impressora**
+
+1. Conecte a impressora ‡ sua rede wireless ou ‡ porta USB do seu computador.
+2. Ligue a impressora e aguarde que ela seja reconhecida pelo sistema operacional**
+
+**Windows:**
+
+1. Abra o Painel de Controle e clique em "Dispositivos e Impressoras".
+3. Clique em "Adicionar uma impressora" e siga as instruÁıes para adicionar uma impressora".
+5. Selecione a impressora Lexmark da lista de dispositivos encontrados.
+
+**Mac (OS X):**
+
+1. Clique no Ìcone de Apple no canto superior esquerda da tela.
+2. Selecion "PreferÍncias do Sistema" e, em seguida, "Impressoras e Scanners".
+4. Clique no bot„o "+" no canto inferior esquerdo da janela.
+5. Selecione a impressora Lexmark da lista de dispositivos encontrados.
+
+**Passo 2: Instalar o driver da impressora**
+
+**Windows:**
+
+1. Baixe o driver de instalaÁ„o da impressora Lexmark para o seu modelo especÌfico.
+2. Execute o arquivo de instalaÁ„o e siga as instruÁıes para instalar o driver.
+
+**Mac (OS X):**
+
+1. Visite o site da Lexmark e baixe o driver de instalaÁ„o do seu modelo de impressora.
+2. Abra o arquivo de instalaÁ„o e siga as instruÁıes para instalar o driver.
+
+**Passo 3: Configurar as opÁıes de impress„o**
+
+1. Abra o aplicativo que vocÍ deseja usar para imprimir (por exemplo, Microsoft Word).
+2. Clique no bot„o "Arquivo" e selecione "Imprimir".
+3. Selecione a impressora Lexmark como a impressora padr„o.
+4. Configure as opÁıes de impress„o desejadas (por exemplo, papel, qualidade de impress„o, etc.).
+
+**Passo 4: Testar a impressora**
+
+1. Imprima um documento de teste para garantir que a impressora esteja funcionando corretamente.
+
+**ObservaÁ„o:** … importante verificar se a impressora Lexmark est· atualizada com o software mais recente. VocÍ pode verificar isso no site da Lexmark ou seguindo as instruÁıes do fabricante.
+
+Esses passos devem ajud·-lo a configurar sua impressora Lexmark. Se vocÍ tiver alguma d˙vida ou problema, È recomend·vel consultar o manual do usu·rio ou contatar o suporte tÈcnico da Lexmark.
+2025-06-10 15:09:41,286 - --- Sess„o de Chat Encerrada pelo Usu·rio ---
+2025-06-10 15:09:41,286 - Bot: Configurar uma impressora Lexmark pode variar dependendo do modelo de impressora e do sistema operacional do seu computador. Aqui est„o os passos gerais para configurar uma impressora Lexmark:
+
+**Passo 1: Conectar a impressora**
+
+1. Conecte a impressora ‡ sua rede wireless ou ‡ porta USB do seu computador.
+2. Ligue a impressora e aguarde que ela seja reconhecida pelo sistema operacional**
+
+**Windows:**
+
+1. Abra o Painel de Controle e clique em "Dispositivos e Impressoras".
+3. Clique em "Adicionar uma impressora" e siga as instruÁıes para adicionar uma impressora".
+5. Selecione a impressora Lexmark da lista de dispositivos encontrados.
+
+**Mac (OS X):**
+
+1. Clique no Ìcone de Apple no canto superior esquerda da tela.
+2. Selecion "PreferÍncias do Sistema" e, em seguida, "Impressoras e Scanners".
+4. Clique no bot„o "+" no canto inferior esquerdo da janela.
+5. Selecione a impressora Lexmark da lista de dispositivos encontrados.
+
+**Passo 2: Instalar o driver da impressora**
+
+**Windows:**
+
+1. Baixe o driver de instalaÁ„o da impressora Lexmark para o seu modelo especÌfico.
+2. Execute o arquivo de instalaÁ„o e siga as instruÁıes para instalar o driver.
+
+**Mac (OS X):**
+
+1. Visite o site da Lexmark e baixe o driver de instalaÁ„o do seu modelo de impressora.
+2. Abra o arquivo de instalaÁ„o e siga as instruÁıes para instalar o driver.
+
+**Passo 3: Configurar as opÁıes de impress„o**
+
+1. Abra o aplicativo que vocÍ deseja usar para imprimir (por exemplo, Microsoft Word).
+2. Clique no bot„o "Arquivo" e selecione "Imprimir".
+3. Selecione a impressora Lexmark como a impressora padr„o.
+4. Configure as opÁıes de impress„o desejadas (por exemplo, papel, qualidade de impress„o, etc.).
+
+**Passo 4: Testar a impressora**
+
+1. Imprima um documento de teste para garantir que a impressora esteja funcionando corretamente.
+
+**ObservaÁ„o:** … importante verificar se a impressora Lexmark est· atualizada com o software mais recente. VocÍ pode verificar isso no site da Lexmark ou seguindo as instruÁıes do fabricante.
+
+Esses passos devem ajud·-lo a configurar sua impressora Lexmark. Se vocÍ tiver alguma d˙vida ou problema, È recomend·vel consultar o manual do usu·rio ou contatar o suporte tÈcnico da Lexmark.
+2025-06-10 15:09:41,286 - User: sair
+2025-06-10 17:13:02,633 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:13:02,634 - Buscando documentos em: 'C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base' usando LangChain...
+2025-06-10 17:13:02,648 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\Documentos.txt
+2025-06-10 17:13:02,648 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:13:02,649 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:13:02,649 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:13:09,581 - Usu√°rio: bom dia
+2025-06-10 17:13:10,386 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:13:10,389 - Bot: Bom dia! Estou aqui para ajudar em qualquer coisa que voc√™ precise. Com base nos documentos que tenho acesso, n√£o encontrei nenhuma informa√ß√£o espec√≠fica para responder sua sauda√ß√£o. Mas estou pronto para ajudar em qualquer pergunta ou tarefa que voc√™ tenha!
+2025-06-10 17:13:18,469 - Usu√°rio: como se configura uma impressora
+2025-06-10 17:13:19,184 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:13:19,185 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√£o h√° informa√ß√µes sobre como configurar uma impressora. Se voc√™ puder fornecer mais contexto ou detalhes sobre a impressora que voc√™ est√° tentando configurar, posso tentar ajudar melhor.
+2025-06-10 17:13:52,100 - Usu√°rio: como se configura uma impressora
+2025-06-10 17:13:52,855 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:13:52,857 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√£o h√° informa√ß√µes sobre como configurar uma impressora. Se voc√™ puder fornecer mais contexto ou detalhes sobre a impressora que voc√™ est√° tentando configurar, posso tentar ajudar melhor.
+2025-06-10 17:36:28,853 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:36:28,854 - Buscando documentos em: 'c:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base' usando LangChain...
+2025-06-10 17:36:28,869 - Error loading file c:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:36:28,869 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:36:28,870 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:36:28,870 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:36:35,025 - Usu√°rio: recolhimento 
+2025-06-10 17:36:35,680 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:36:35,685 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 17:38:23,521 - Usu√°rio: impressora
+2025-06-10 17:38:24,154 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:38:24,156 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 17:40:25,860 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:40:25,861 - Buscando documentos em: 'C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base' usando LangChain...
+2025-06-10 17:40:25,871 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:40:25,872 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:40:25,872 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:40:25,873 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:41:13,519 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:41:13,519 - Buscando documentos em: 'C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base' usando LangChain...
+2025-06-10 17:41:13,529 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:41:13,530 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:41:13,530 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:41:13,531 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:42:16,290 - Usu√°rio: duplex
+2025-06-10 17:42:16,997 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:42:17,002 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 17:45:26,233 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:45:26,234 - Buscando documentos em: 'C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base' usando LangChain...
+2025-06-10 17:45:26,244 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:45:26,244 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:45:26,244 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:45:26,245 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:47:05,243 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:47:05,254 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:47:05,255 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\impressora.txt
+2025-06-10 17:47:05,255 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:47:05,255 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:47:05,256 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:49:31,188 - Usu√°rio: pip install python-dotenv
+2025-06-10 17:49:31,830 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:49:31,834 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 17:49:53,085 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:49:53,098 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\chat_log.txt
+2025-06-10 17:49:53,098 - Error loading file C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base\impressora.txt
+2025-06-10 17:49:53,098 - Erro ao carregar documentos com LangChain: unstructured package not found, please install it with `pip install unstructured`
+2025-06-10 17:49:53,099 - Base de conhecimento carregada com 0 chunks.
+2025-06-10 17:49:53,099 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:51:14,757 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:51:23,249 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:51:23,250 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:51:46,662 - Need to load profiles.
+2025-06-10 17:51:46,861 - Base de conhecimento carregada com 64 chunks.
+2025-06-10 17:51:46,863 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:52:36,607 - Usu√°rio:  duplex
+2025-06-10 17:52:36,608 - Contexto encontrado para a pergunta ' duplex':
+T√çTULO: Como configurar a digitaliza√ß√£o para pasta de rede (SMB) PASSOS: 1. Obtenha o endere√ßo IP da impressora. 2. Em um navegador de internet no computador, digite o endere√ßo IP para acessar o Servidor da Web Incorporado (EWS). 3. No menu √† esquerda, v√° para: Configura√ß√µes. 4. Selecione: Configura...
+2025-06-10 17:52:37,298 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:52:37,301 - Bot: Sim, o modelo MX521de possui um alimentador autom√°tico de documentos (ADF) com digitaliza√ß√£o duplex de passagem √∫nica, o que torna o processo muito r√°pido.
+2025-06-10 17:54:26,808 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:54:27,776 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:54:27,777 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:54:28,810 - Need to load profiles.
+2025-06-10 17:54:28,998 - Base de conhecimento carregada com 64 chunks.
+2025-06-10 17:54:28,998 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:56:19,147 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:56:20,080 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:56:20,080 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:56:21,314 - Base de conhecimento carregada com 64 chunks.
+2025-06-10 17:56:21,317 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:57:38,678 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:57:39,727 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:57:39,727 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,783 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:40,784 - Need to load profiles.
+2025-06-10 17:57:41,016 - Base de conhecimento carregada com 64 chunks.
+2025-06-10 17:57:41,017 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:58:52,368 - Usu√°rio: clear
+2025-06-10 17:58:52,368 - Nenhum conhecimento relevante encontrado para a pergunta: 'clear'
+2025-06-10 17:58:53,140 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:58:53,143 - Bot: Ol√°! Eu sou o SolvemeBot. Estou aqui para ajudar. N√£o h√° contexto relevante para esta conversa, ent√£o sinta-se √† vontade para fazer uma pergunta ou fornecer um contexto para que eu possa ajudar melhor.
+2025-06-10 17:58:55,995 - --- Sess√£o de Chat Encerrada pelo Usu√°rio ---
+2025-06-10 17:59:01,468 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 17:59:02,525 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:59:02,525 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 17:59:03,740 - Base de conhecimento carregada com 64 chunks.
+2025-06-10 17:59:03,741 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 17:59:38,267 - Usu√°rio: recolhimento
+2025-06-10 17:59:38,268 - Nenhum conhecimento relevante encontrado para a pergunta: 'recolhimento'
+2025-06-10 17:59:38,922 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 17:59:38,923 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:01:07,822 - Usu√°rio: recolhimento
+2025-06-10 18:01:07,823 - Nenhum conhecimento relevante encontrado para a pergunta: 'recolhimento'
+2025-06-10 18:01:08,430 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:01:08,430 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:01:54,153 - Iniciando carregamento da base de conhecimento com LangChain.
+2025-06-10 18:01:55,093 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:01:55,093 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:01:55,094 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,234 - Need to load profiles.
+2025-06-10 18:01:56,235 - Need to load profiles.
+2025-06-10 18:01:56,235 - Need to load profiles.
+2025-06-10 18:01:56,488 - Base de conhecimento carregada com 71 chunks.
+2025-06-10 18:01:56,489 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 18:01:58,965 - Usu√°rio: recolhimento
+2025-06-10 18:01:58,966 - Contexto encontrado para a pergunta 'recolhimento':
+### recolhimento ###
+
+Este procedimento tem por objetivo estabelecer as diretrizes para a correta orienta√ß√£o e classifica√ß√£o dos chamados relacionados a recolhimento de insumos (carca√ßa).
+
+Descri√ß√£o do Procedimento
+
+An√°lise Pr√©via
+
+Antes de abrir um chamado, √© importante realizar uma an√°lise pr√©via ...
+2025-06-10 18:02:00,088 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:02:00,091 - Bot: Ol√°!
+
+O procedimento de recolhimento tem como objetivo estabelecer as diretrizes para a correta orienta√ß√£o e classifica√ß√£o dos chamados relacionados a recolhimento de insumos (carca√ßa).
+
+Ele envolve uma an√°lise pr√©via para garantir um registro eficaz e completo, verificando se n√£o h√° chamados abertos para recolhimento de insumos e consultando o site da Receita Federal para verificar a correla√ß√£o entre o endere√ßo do CNPJ e o sistema.
+
+Al√©m disso, o procedimento orienta a equipe da unidade sobre a solicita√ß√£o de recolhimento dos insumos, solicita ao cliente informa√ß√µes necess√°rias para facilitar o acesso da transportadora ao local e categoriza o chamado no SDM de acordo com as diretrizes estabelecidas.
+2025-06-10 18:02:23,354 - Usu√°rio: como √© o procedimento
+2025-06-10 18:02:23,355 - Contexto encontrado para a pergunta 'como √© o procedimento':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:02:23,670 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-06-10 18:02:23,671 - Erro na execu√ß√£o: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15367, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Traceback (most recent call last):
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\src\main.py", line 140, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1020, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.APIStatusError: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15367, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-10 18:02:40,771 - Usu√°rio: o procedimento
+2025-06-10 18:02:40,772 - Contexto encontrado para a pergunta 'o procedimento':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:02:41,063 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-06-10 18:02:41,064 - Erro na execu√ß√£o: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15365, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Traceback (most recent call last):
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\src\main.py", line 140, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1020, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.APIStatusError: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15365, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-10 18:05:26,713 - Usu√°rio: recolhimento
+2025-06-10 18:05:26,714 - Contexto encontrado para a pergunta 'recolhimento':
+### recolhimento ###
+
+Este procedimento tem por objetivo estabelecer as diretrizes para a correta orienta√ß√£o e classifica√ß√£o dos chamados relacionados a recolhimento de insumos (carca√ßa).
+
+Descri√ß√£o do Procedimento
+
+An√°lise Pr√©via
+
+Antes de abrir um chamado, √© importante realizar uma an√°lise pr√©via ...
+2025-06-10 18:05:28,062 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:05:28,064 - Bot: Ol√°!
+
+O procedimento de recolhimento envolve as seguintes etapas:
+
+1. An√°lise pr√©via: Verificar se n√£o h√° chamados abertos para recolhimento de insumos e consultar o site da Receita Federal para verificar a correla√ß√£o entre o endere√ßo do CNPJ e o sistema.
+2. Orienta√ß√£o ao usu√°rio: Instruir o usu√°rio a coleta ser produtiva, solicitar o n√∫mero de telefone celular com DDD e um e-mail para notifica√ß√£o sobre o recolhimento.
+3. Categoriza√ß√£o no SDM: Encaminhar ao N2 com origem, tipo de chamado, criticidade, assunto, falha, encaminhamento, diagn√≥stico.
+4. Diagn√≥stico: Insumos Lexmark ou Epson.
+
+Essas s√£o as etapas principais do recolhimento de insumos (carca√ßa).
+2025-06-10 18:05:39,256 - Usu√°rio: me fale sobre a 2
+2025-06-10 18:05:39,256 - Contexto encontrado para a pergunta 'me fale sobre a 2':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:05:39,571 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-06-10 18:05:39,572 - Erro na execu√ß√£o: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15550, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Traceback (most recent call last):
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\src\main.py", line 140, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1020, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.APIStatusError: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15550, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-10 18:05:50,837 - Usu√°rio: 4
+2025-06-10 18:05:50,838 - Contexto encontrado para a pergunta '4':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:05:51,147 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-06-10 18:05:51,148 - Erro na execu√ß√£o: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10525, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Traceback (most recent call last):
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\src\main.py", line 140, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1020, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.APIStatusError: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10525, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-10 18:05:59,516 - Usu√°rio: e sobre o diagn√≥stico
+2025-06-10 18:05:59,517 - Contexto encontrado para a pergunta 'e sobre o diagn√≥stico':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:05:59,832 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-06-10 18:05:59,832 - Erro na execu√ß√£o: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15551, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Traceback (most recent call last):
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\src\main.py", line 140, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\.venv\Lib\site-packages\groq\_base_client.py", line 1020, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.APIStatusError: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jpk00dggf88tec05572rm4h1` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15551, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-10 18:06:19,224 - Usu√°rio: clear
+2025-06-10 18:06:19,224 - Nenhum conhecimento relevante encontrado para a pergunta: 'clear'
+2025-06-10 18:06:19,795 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:06:19,797 - Bot: Ol√°!
+
+Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:06:24,269 - --- Sess√£o de Chat Encerrada pelo Usu√°rio ---
+2025-06-10 18:06:35,007 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:06:35,008 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:06:35,009 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:36,005 - Need to load profiles.
+2025-06-10 18:06:43,396 - Usu√°rio: recolhimento
+2025-06-10 18:06:43,396 - Contexto encontrado para a pergunta 'recolhimento':
+### PROCEDIMENTO OPERACIONAL PADR√ÉO ### T√çTULO: Recolhimento de Insumos (Carca√ßa) OBJETIVO: Estabelecer as diretrizes para a correta orienta√ß√£o, classifica√ß√£o e registro de chamados relacionados ao recolhimento de insumos de impressoras (carca√ßas).
+
+== PASSO 1: AN√ÅLISE PR√âVIA == DESCRI√á√ÉO: Antes de ...
+2025-06-10 18:06:44,101 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:06:44,103 - Bot: O recolhimento de insumos de impressoras (carca√ßas) √© o objetivo do procedimento operacional padr√£o!
+2025-06-10 18:06:52,961 - Usu√°rio: 4
+2025-06-10 18:06:52,962 - Contexto encontrado para a pergunta '4':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:06:53,553 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:06:53,555 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:07:02,596 - Usu√°rio: me fale como instruir o processo para o cliente
+2025-06-10 18:07:02,597 - Contexto encontrado para a pergunta 'me fale como instruir o processo para o cliente':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:07:03,949 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:07:03,951 - Bot: Para instruir o processo para o cliente, voc√™ pode seguir os passos abaixo:
+
+**Como encontrar o endere√ßo IP da Impressora:**
+
+1. No painel de toque da impressora, navegue para: Configura√ß√µes.
+2. Selecione a op√ß√£o: Rede/Portas.
+3. Selecione: TCP/IP.
+4. O endere√ßo IP ser√° exibido na tela.
+
+**Como configurar a digitaliza√ß√£o para pasta de rede (SMB):**
+
+1. Obtenha o endere√ßo IP da impressora.
+2. Em um navegador de internet no computador, digite o endere√ßo IP para acessar o Servidor da Web Incorporado (EWS).
+3. No menu √† esquerda, v√° para: Configura√ß√µes.
+4. Selecione: Configura√ß√£o de Digitaliza√ß√£o para Pasta de Rede.
+5. Clique em "Adicionar um Atalho" e preencha os campos obrigat√≥rios: Nome do atalho, Caminho da pasta (ex: \\servidor\scans), dom√≠nio (se necess√°rio), nome de usu√°rio e senha com permiss√£o de escrita na pasta.
+6. Salve o atalho. Ele aparecer√° no painel da impressora.
+
+Essas instru√ß√µes devem ajudar o cliente a configurar a impressora corretamente.
+2025-06-10 18:07:36,341 - Usu√°rio: como instruir a como ser feito o recolhimento
+2025-06-10 18:07:36,342 - Contexto encontrado para a pergunta 'como instruir a como ser feito o recolhimento':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:07:37,194 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:07:37,195 - Bot: N√£o h√° informa√ß√µes sobre como instruir o recolhimento no contexto fornecido. Se voc√™ tiver mais informa√ß√µes ou detalhes sobre o recolhimento, posso ajudar a criar instru√ß√µes para o cliente.
+2025-06-10 18:08:18,414 - Usu√°rio: me fale como instruir o processo de recolhimento  para o cliente
+2025-06-10 18:08:18,415 - Contexto encontrado para a pergunta 'me fale como instruir o processo de recolhimento  para o cliente':
+### GUIA R√ÅPIDO
+
+IMPRESSORA ###
+
+MARCA: Lexmark
+
+MODELO: MX521de
+
+TIPO: Multifuncional Monocrom√°tica
+
+== ESPECIFICA√á√ïES GERAIS == Toner Padr√£o: 56F4000 (Rendimento: 6.000 p√°ginas) Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 p√°ginas) Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 p√°g...
+2025-06-10 18:08:19,200 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:08:19,201 - Bot: Pe√ßo desculpas, mas com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√£o h√° informa√ß√µes sobre o processo de recolhimento no contexto fornecido.
+2025-06-10 18:08:53,437 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:08:53,437 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:08:53,437 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:09:07,833 - Usu√°rio: me fale como instruir o processo de recolhimento  para o cliente
+2025-06-10 18:09:07,835 - Contexto encontrado para a pergunta 'me fale como instruir o processo de recolhimento  para o cliente':
+### PROCEDIMENTO OPERACIONAL PADR√ÉO ### T√çTULO: Recolhimento de Insumos (Carca√ßa) OBJETIVO: Estabelecer as diretrizes para a correta orienta√ß√£o, classifica√ß√£o e registro de chamados relacionados ao recolhimento de insumos de impressoras (carca√ßas).
+
+== PASSO 1: AN√ÅLISE PR√âVIA == DESCRI√á√ÉO: Antes de ...
+2025-06-10 18:09:10,047 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:09:10,050 - Bot: Com base nos documentos que tenho acesso, aqui est√° a instru√ß√£o para o processo de recolhimento de insumos (carca√ßas) para o cliente:
+
+**Passo 1: An√°lise Pr√©via**
+
+* Verifique se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade.
+* Verifique o endere√ßo e CNPJ informado, consultando o site da Receita Federal para validar o endere√ßo. Certifique-se de que o endere√ßo do CNPJ consultado seja o mesmo que consta na ferramenta SDM e no sistema Gprint.
+
+**Passo 2: Abertura e Sondagem do Chamado**
+
+* Ao abrir o chamado, realize uma sondagem completa para coletar todas as informa√ß√µes necess√°rias.
+* Pergunte ao cliente:
+	1. Quantidade total de insumos para recolhimento?
+	2. Todos os itens s√£o da marca Lexmark? (Se n√£o, especificar outras marcas).
+	3. Qual o hor√°rio de funcionamento do local para a coleta?
+	4. Existe alguma restri√ß√£o de acesso ao local? (Ex: agendamento, documento espec√≠fico, EPIs).
+	5. O local onde os itens est√£o possui escadas?
+	6. √â necess√°rio carrinho de transporte para a remo√ß√£o?
+	7. Qual o n√∫mero de telefone celular (com DDD) de um contato no local? (Informar que √© para facilitar o contato da transportadora).
+	8. Qual o e-mail para a transportadora enviar a notifica√ß√£o da coleta?
+
+**Campo O.S. Cliente**
+
+* Preencha o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+
+Lembre-se de que, se houver diverg√™ncia de endere√ßo, √© necess√°rio questionar o cliente e solicitar um CNPJ que corresponda ao endere√ßo do Gprint. Se o cliente insistir que n√£o possui outro CNPJ, prossiga com a abertura do chamado e insira a observa√ß√£o obrigat√≥ria no campo "A√ß√µes Tomadas".
+2025-06-10 18:15:12,019 - Use pytorch device_name: cpu
+2025-06-10 18:15:12,019 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:16:27,357 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:16:28,378 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:16:28,378 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:16:28,378 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:16:44,399 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,405 - Need to load profiles.
+2025-06-10 18:16:44,717 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:16:44,719 - Documentos divididos em 70 chunks.
+2025-06-10 18:16:44,719 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:16:44,721 - Use pytorch device_name: cpu
+2025-06-10 18:16:44,721 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:16:50,120 - Loading faiss with AVX2 support.
+2025-06-10 18:16:54,809 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:16:54,813 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:17:36,179 - Use pytorch device_name: cpu
+2025-06-10 18:17:36,180 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:17:38,988 - Loading faiss with AVX2 support.
+2025-06-10 18:17:39,045 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:17:39,049 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:20:29,473 - Use pytorch device_name: cpu
+2025-06-10 18:20:29,474 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:20:32,054 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:20:33,038 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:20:33,039 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:20:33,039 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:20:33,778 - Need to load profiles.
+2025-06-10 18:20:33,778 - Need to load profiles.
+2025-06-10 18:20:33,778 - Need to load profiles.
+2025-06-10 18:20:33,778 - Need to load profiles.
+2025-06-10 18:20:33,778 - Need to load profiles.
+2025-06-10 18:20:33,790 - Need to load profiles.
+2025-06-10 18:20:33,790 - Need to load profiles.
+2025-06-10 18:20:34,087 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:20:34,088 - Documentos divididos em 70 chunks.
+2025-06-10 18:20:34,089 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:20:34,091 - Use pytorch device_name: cpu
+2025-06-10 18:20:34,091 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:20:39,212 - Loading faiss with AVX2 support.
+2025-06-10 18:20:39,302 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:20:39,306 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:21:30,763 - Use pytorch device_name: cpu
+2025-06-10 18:21:30,763 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:21:33,869 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:21:34,892 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:21:34,893 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:21:34,893 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:21:35,713 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:35,714 - Need to load profiles.
+2025-06-10 18:21:36,006 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:21:36,007 - Documentos divididos em 70 chunks.
+2025-06-10 18:21:36,008 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:21:36,009 - Use pytorch device_name: cpu
+2025-06-10 18:21:36,009 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:21:42,168 - Loading faiss with AVX2 support.
+2025-06-10 18:21:42,197 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:21:42,203 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:22:00,677 - Use pytorch device_name: cpu
+2025-06-10 18:22:00,678 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:22:03,754 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:22:04,733 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:22:04,734 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:22:04,735 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,401 - Need to load profiles.
+2025-06-10 18:22:05,828 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:22:05,831 - Documentos divididos em 70 chunks.
+2025-06-10 18:22:05,831 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:22:05,833 - Use pytorch device_name: cpu
+2025-06-10 18:22:05,833 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:22:10,892 - Loading faiss with AVX2 support.
+2025-06-10 18:22:10,966 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:22:10,968 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:23:06,831 - Use pytorch device_name: cpu
+2025-06-10 18:23:06,831 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:23:09,372 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:23:10,495 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:10,495 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:10,496 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:12,236 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:23:12,239 - Documentos divididos em 70 chunks.
+2025-06-10 18:23:12,239 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:23:12,243 - Use pytorch device_name: cpu
+2025-06-10 18:23:12,243 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:23:18,264 - Loading faiss with AVX2 support.
+2025-06-10 18:23:18,288 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:23:18,294 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:23:46,134 - Use pytorch device_name: cpu
+2025-06-10 18:23:46,134 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:23:49,470 - Buscando documentos em: C:\Users\vilso\OneDrive\√Årea de Trabalho\Solveme.bot\knowledge_base...
+2025-06-10 18:23:50,631 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:50,632 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:50,632 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:23:52,257 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:23:52,259 - Documentos divididos em 70 chunks.
+2025-06-10 18:23:52,259 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:23:52,263 - Use pytorch device_name: cpu
+2025-06-10 18:23:52,263 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:23:58,242 - Loading faiss with AVX2 support.
+2025-06-10 18:23:58,267 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:23:58,273 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:43:11,513 - Use pytorch device_name: cpu
+2025-06-10 18:43:11,513 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:43:14,661 - Buscando documentos em: C:\dev\Solveme.bot\knowledge_base...
+2025-06-10 18:43:15,592 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:43:15,593 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:43:15,594 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,660 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:27,661 - Need to load profiles.
+2025-06-10 18:43:28,020 - 3 documento(s) carregado(s) com sucesso.
+2025-06-10 18:43:28,023 - Documentos divididos em 70 chunks.
+2025-06-10 18:43:28,023 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:43:28,025 - Use pytorch device_name: cpu
+2025-06-10 18:43:28,025 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:43:33,740 - Loading faiss with AVX2 support.
+2025-06-10 18:43:35,879 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:43:35,882 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:43:35,886 - √çndice FAISS salvo com sucesso em: C:\dev\Solveme.bot\faiss_index
+2025-06-10 18:43:35,888 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 18:46:45,972 - Usu√°rio: minha impressora n√£o imprime frente e verso, o que pode ser?
+2025-06-10 18:46:46,863 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:46:46,868 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√ÉO h√° informa√ß√µes sobre como configurar impress√£o frente e verso. Se voc√™ puder fornecer mais contexto ou detalhes sobre a impressora que voc√™ est√° tentando configurar, posso tentar ajudar melhor.
+2025-06-10 18:47:02,179 - Usu√°rio: duplex
+2025-06-10 18:47:02,961 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:47:02,962 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. No entanto, posso sugerir que voc√™ verifique as configura√ß√µes de impress√£o da sua impressora para ver se a op√ß√£o de duplex (impress√£o frente e verso) est√° dispon√≠vel e habilitada.
+2025-06-10 18:47:54,192 - Use pytorch device_name: cpu
+2025-06-10 18:47:54,192 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:47:56,654 - Loading faiss with AVX2 support.
+2025-06-10 18:47:56,822 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:47:56,825 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:47:56,827 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 18:48:06,610 - Usu√°rio: minha impressora n√£o imprime frente e verso, o que pode ser?
+2025-06-10 18:48:07,500 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:48:07,503 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√ÉO h√° informa√ß√µes sobre como configurar impress√£o frente e verso. Se voc√™ puder fornecer mais contexto ou detalhes sobre a impressora que voc√™ est√° tentando configurar, posso tentar ajudar melhor.
+2025-06-10 18:48:14,100 - Usu√°rio: duplex
+2025-06-10 18:48:15,176 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:48:15,178 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. No entanto, posso sugerir que voc√™ verifique as configura√ß√µes da impressora para ver se a op√ß√£o de impress√£o duplex (frente e verso) est√° habilitada. Isso pode variar dependendo do modelo e marca da impressora.
+2025-06-10 18:51:28,998 - Use pytorch device_name: cpu
+2025-06-10 18:51:28,998 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:51:31,788 - Loading faiss with AVX2 support.
+2025-06-10 18:51:32,048 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:51:32,051 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:51:32,053 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 18:51:51,923 - Usu√°rio: minha impressora n√£o imprime frente e verso, o que pode ser?
+2025-06-10 18:51:52,820 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:51:52,824 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta. N√ÉO h√° informa√ß√µes sobre como configurar uma impressora para imprimir frente e verso. Se voc√™ puder fornecer mais contexto ou detalhes sobre a impressora que voc√™ est√° tentando configurar, posso tentar ajudar melhor.
+2025-06-10 18:54:13,432 - Use pytorch device_name: cpu
+2025-06-10 18:54:13,432 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:54:16,928 - Loading faiss with AVX2 support.
+2025-06-10 18:54:17,107 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:54:17,113 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:54:30,283 - Usu√°rio: Duplex
+2025-06-10 18:54:31,020 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:54:31,023 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:54:53,039 - Use pytorch device_name: cpu
+2025-06-10 18:54:53,039 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:54:55,517 - Loading faiss with AVX2 support.
+2025-06-10 18:54:55,683 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:54:55,686 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:55:36,472 - Use pytorch device_name: cpu
+2025-06-10 18:55:36,472 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:55:39,220 - Buscando documentos em: C:\dev\Solveme.bot\knowledge_base...
+2025-06-10 18:55:40,225 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:55:40,226 - libmagic is unavailable but assists in filetype detection. Please consider installing libmagic for better results.
+2025-06-10 18:55:41,163 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,164 - Need to load profiles.
+2025-06-10 18:55:41,165 - Need to load profiles.
+2025-06-10 18:55:41,165 - Need to load profiles.
+2025-06-10 18:55:41,613 - 2 documento(s) carregado(s) com sucesso.
+2025-06-10 18:55:41,614 - Documentos divididos em 10 chunks.
+2025-06-10 18:55:41,614 - Iniciando a cria√ß√£o de embeddings...
+2025-06-10 18:55:41,617 - Use pytorch device_name: cpu
+2025-06-10 18:55:41,617 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:55:45,077 - Loading faiss with AVX2 support.
+2025-06-10 18:55:45,109 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:55:45,115 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:55:45,118 - √çndice FAISS salvo com sucesso em: C:\dev\Solveme.bot\faiss_index
+2025-06-10 18:56:14,060 - Use pytorch device_name: cpu
+2025-06-10 18:56:14,060 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 18:56:17,321 - Loading faiss with AVX2 support.
+2025-06-10 18:56:17,499 - Successfully loaded faiss with AVX2 support.
+2025-06-10 18:56:17,508 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 18:56:21,161 - Usu√°rio: minha impressora n√£o imprime frente e verso, o que pode ser?
+2025-06-10 18:56:21,956 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:56:21,960 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+2025-06-10 18:56:28,311 - Usu√°rio: recolhimento
+2025-06-10 18:56:29,398 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 18:56:29,401 - Bot: Para o recolhimento de insumos de impressoras (carca√ßas), √© importante seguir o procedimento operacional padr√£o. Antes de registrar o chamado, realize as verifica√ß√µes necess√°rias, como verificar se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade e verificar o endere√ßo e CNPJ.
+
+Al√©m disso, √© importante orientar o usu√°rio a agrupar itens e aguardar acumular um volume de pelo menos 5 (cinco) itens para descarte. Isso viabiliza e otimiza a log√≠stica de coleta.
+
+√â fundamental ressaltar que, para o item TONER, o registro do chamado para recolhimento pela empresa √© sempre obrigat√≥rio e n√£o deve ser orientado ao cliente a realizar o descarte em lixo comum ou descarte ecol√≥gico por conta pr√≥pria.
+2025-06-10 19:37:42,737 - Use pytorch device_name: cpu
+2025-06-10 19:37:42,737 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 19:37:43,937 - Loading faiss with AVX2 support.
+2025-06-10 19:37:44,199 - Successfully loaded faiss with AVX2 support.
+2025-06-10 19:37:44,204 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 19:37:44,205 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 19:38:02,814 - Usu√°rio: Recolhimento
+2025-06-10 19:38:02,980 - Retrying request to /openai/v1/chat/completions in 0.429695 seconds
+2025-06-10 19:38:03,413 - Retrying request to /openai/v1/chat/completions in 0.900874 seconds
+2025-06-10 19:38:04,317 - Erro na execu√ß√£o: Connection error.
+Traceback (most recent call last):
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_sync\connection.py", line 101, in handle_request
+    raise exc
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_sync\connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_sync\connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_backends\sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 953, in _request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_transports\default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\dev\Solveme.bot\src\main.py", line 113, in <module>
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\resources\chat\completions.py", line 322, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 917, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 977, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 1054, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 977, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 1054, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vilso\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\groq\_base_client.py", line 987, in _request
+    raise APIConnectionError(request=request) from err
+groq.APIConnectionError: Connection error.
+2025-06-10 19:41:47,757 - Usu√°rio: recolhimento
+2025-06-10 19:41:48,908 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 19:41:48,912 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece estar procurando informa√ß√µes sobre recolhimento de insumos de impressoras. Isso √© correto?
+
+Se sim, posso sugerir que voc√™ aguarde acumular um volume de pelo menos 5 itens para descarte. Isso viabiliza e otimiza a log√≠stica de coleta. (Fonte: recolhimento.txt)
+2025-06-10 19:42:07,509 - Usu√°rio: procedimentos
+2025-06-10 19:42:08,652 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 19:42:08,653 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece estar procurando informa√ß√µes sobre procedimentos para recolhimento de insumos de impressoras. Isso √© correto?
+
+Se sim, posso sugerir que voc√™ siga os passos estabelecidos no Procedimento Operacional Padr√£o: Recolhimento de Insumos (Carca√ßa). Os passos incluem An√°lise Pr√©via, Preven√ß√£o: Alternativas ao Recolhimento e Abertura e Sondagem do Chamado. (Fonte: recolhimento.txt)
+2025-06-10 19:42:27,873 - Usu√°rio: Preven√ß√£o: Alternativas ao Recolhimento e Abertura e Sondagem do Chamado
+2025-06-10 19:42:29,096 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 19:42:29,098 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece estar procurando informa√ß√µes sobre Preven√ß√£o: Alternativas ao Recolhimento e Abertura e Sondagem do Chamado. Isso √© correto?
+
+Se sim, posso informar que, antes de registrar o chamado, √© importante orientar o usu√°rio sobre alternativas para otimizar o processo. Uma dessas alternativas √© o Descarte Ecol√≥gico Local, onde o usu√°rio pode realizar o descarte ecol√≥gico das carca√ßas por conta pr√≥pria, atrav√©s de postos de coleta locais.
+
+Al√©m disso, √© importante realizar uma sondagem completa para coletar todas as informa√ß√µes necess√°rias ao abrir o chamado. (Fonte: recolhimento.txt)
+2025-06-10 19:43:00,426 - Use pytorch device_name: cpu
+2025-06-10 19:43:00,426 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 19:43:03,925 - Loading faiss with AVX2 support.
+2025-06-10 19:43:03,945 - Successfully loaded faiss with AVX2 support.
+2025-06-10 19:43:03,951 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 19:43:03,954 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 19:43:11,738 - Usu√°rio: Preven√ß√£o: Alternativas ao Recolhimento e Abertura e Sondagem do Chamado
+2025-06-10 19:43:13,129 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 19:43:13,132 - Bot: A se√ß√£o "Preven√ß√£o: Alternativas ao Recolhimento" destaca a op√ß√£o de descarte ecol√≥gico local para o usu√°rio, permitindo que ele realize o descarte ecol√≥gico das carca√ßas por conta pr√≥pria, atrav√©s de postos de coleta locais. J√° a se√ß√£o "Abertura e Sondagem do Chamado" destaca a import√¢ncia de realizar uma sondagem completa para coletar todas as informa√ß√µes necess√°rias ao abrir o chamado. (Fonte: recolhimento.txt)
+2025-06-10 19:43:54,480 - Use pytorch device_name: cpu
+2025-06-10 19:43:54,480 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 19:43:57,479 - Loading faiss with AVX2 support.
+2025-06-10 19:43:57,495 - Successfully loaded faiss with AVX2 support.
+2025-06-10 19:43:57,499 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 19:43:57,499 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 19:43:59,805 - Usu√°rio: duplex
+2025-06-10 19:44:00,548 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 19:44:00,554 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+
+(Fonte: recolhimento.txt, impressora.txt)
+2025-06-10 20:21:28,003 - Use pytorch device_name: cpu
+2025-06-10 20:21:28,004 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:21:31,579 - Loading faiss with AVX2 support.
+2025-06-10 20:21:31,759 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:21:31,764 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:21:31,766 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:21:41,337 - Usu√°rio: Recolhimento
+2025-06-10 20:21:43,231 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:21:43,241 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras. Voc√™ est√° procurando informa√ß√µes sobre recolhimento de insumos de impressoras. 
+
+Sim, o procedimento operacional padr√£o para recolhimento de insumos de impressoras (carca√ßas) envolve v√°rias etapas, incluindo a an√°lise pr√©via, a categoriza√ß√£o no SDM, a orienta√ß√£o para preparar a coleta e o encerramento do chamado. Al√©m disso, √© importante ressaltar que o descarte de toner n√£o deve ser feito em lixo comum ou descarte ecol√≥gico por conta pr√≥pria, e sim registrado pela empresa para recolhimento. 
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:21:50,668 - Usu√°rio: informe os procedimentos
+2025-06-10 20:21:52,303 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:21:52,305 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras. Voc√™ est√° procurando informa√ß√µes sobre os procedimentos para o recolhimento de insumos de impressoras (carca√ßas).
+
+Sim, os procedimentos s√£o os seguintes:
+
+**PASSO 1: AN√ÅLISE PR√âVIA**
+
+1. Verifica√ß√£o de Chamados Abertos: Confirme se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade.
+2. Verifica√ß√£o de Endere√ßo e CNPJ: Consulte o site da Receita Federal para validar o endere√ßo do CNPJ informado. O endere√ßo do CNPJ consultado deve ser o mesmo que consta na ferramenta SDM e no sistema Gprint.
+3. Campo O.S. Cliente: Preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+4. Orienta√ß√µes para Preparar a Coleta: Instrua o usu√°rio sobre os seguintes pontos para garantir uma coleta produtiva:
+	* Posicionar todos os itens no andar t√©rreo, em local de f√°cil acesso para a equipe de transporte.
+	* Comunicar toda a equipe da unidade sobre a solicita√ß√£o de recolhimento para que estejam cientes.
+
+**PASSO 2: ABERTURA E SONDAGEM DO CHAMADO**
+
+1. Abertura do Chamado: Ao abrir o chamado, realize uma sondagem completa para coletar todas as informa√ß√µes necess√°rias.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:22:10,348 - Use pytorch device_name: cpu
+2025-06-10 20:22:10,348 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:22:13,197 - Loading faiss with AVX2 support.
+2025-06-10 20:22:13,271 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:22:13,274 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:22:13,275 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:22:16,413 - Usu√°rio: duplex
+2025-06-10 20:22:17,081 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:22:17,086 - Bot: Com base nos documentos que tenho acesso, n√£o encontrei a resposta para sua pergunta.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:22:22,478 - Usu√°rio: recolhimento
+2025-06-10 20:22:23,214 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:22:23,216 - Bot: O procedimento operacional padr√£o para recolhimento de insumos (carca√ßas) de impressoras √© estabelecer as diretrizes para a correta orienta√ß√£o, classifica√ß√£o e registro de chamados relacionados ao recolhimento de insumos de impressoras (carca√ßas).
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:22:38,488 - Use pytorch device_name: cpu
+2025-06-10 20:22:38,488 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:22:41,566 - Loading faiss with AVX2 support.
+2025-06-10 20:22:41,645 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:22:41,649 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:22:41,650 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:22:44,053 - Usu√°rio: recolhimento
+2025-06-10 20:22:45,206 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:22:45,211 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece ter uma d√∫vida sobre o recolhimento de insumos de impressoras. √â importante lembrar que, antes de registrar um chamado, √© necess√°rio realizar verifica√ß√µes para garantir um registro eficaz. Al√©m disso, √© fundamental orientar o usu√°rio sobre como preparar a coleta e inform√°-lo sobre as op√ß√µes de descarte.
+
+Se tiver alguma d√∫vida espec√≠fica sobre o recolhimento de insumos, sinta-se √† vontade para perguntar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:22:48,603 - Usu√°rio: procedimento
+2025-06-10 20:22:49,627 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:22:49,628 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece ter uma d√∫vida sobre o procedimento de recolhimento de insumos. O procedimento operacional padr√£o para recolhimento de insumos de impressoras (carca√ßas) √© dividido em dois passos: An√°lise Pr√©via e Abertura e Sondagem do Chamado.
+
+No Passo 1: An√°lise Pr√©via, √© necess√°rio realizar verifica√ß√µes para evitar erros e garantir um registro eficaz. J√° no Passo 2: Abertura e Sondagem do Chamado, √© necess√°rio realizar uma sondagem completa para coletar todas as informa√ß√µes necess√°rias.
+
+Se tiver alguma d√∫vida espec√≠fica sobre o procedimento, sinta-se √† vontade para perguntar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:23:02,320 - Usu√°rio: agora como abrir o chamado
+2025-06-10 20:23:03,672 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:23:03,674 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Para abrir o chamado, √© necess√°rio realizar uma sondagem completa para coletar todas as informa√ß√µes necess√°rias. √â importante perguntar ao usu√°rio as seguintes informa√ß√µes:
+1. Quantidade total de insumos para recolhimento?
+2. Todos os itens s√£o da marca Lexmark? (Se n√£o, especificar outras marcas).
+3. Qual o hor√°rio de funcionamento do local para a coleta?
+4. Existe alguma restri√ß√£o de acesso ao local? (Ex: agendamento, documento espec√≠fico, EPIs).
+5. O local onde os itens est√£o possui escadas?
+6. √â necess√°rio carrinho de transporte para a remo√ß√£o?
+7. Qual o n√∫mero de telefone celular (com DDD) de um contato no local? (Informar que √© para facilitar o contato da transportadora).
+8. Qual o e-mail para a transportadora enviar a notifica√ß√£o da coleta?
+
+Al√©m disso, √© importante preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+
+Se tiver alguma d√∫vida sobre como abrir o chamado, sinta-se √† vontade para perguntar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:27:39,382 - Usu√°rio: clear
+2025-06-10 20:27:41,081 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:27:41,083 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ parece ter uma d√∫vida sobre como categorizar o chamado no SDM. 
+
+Para categorizar o chamado no SDM, √© necess√°rio seguir as seguintes etapas:
+
+* Encaminhamento para N√≠vel 2 (N2):
+	+ Origem: Telefone, E-mail, Web, Chat
+	+ Tipo de Chamado: Requisi√ß√£o de Servi√ßo
+	+ Criticidade: Normal (C2) para situa√ß√µes gerais, Alta (C2) para locais em mudan√ßa ou sem espa√ßo f√≠sico
+	+ Assunto: Coleta >> Coleta de Insumos >> Recolhimento de Carca√ßa
+	+ Falha: Recolhimento de Carca√ßa
+	+ Encaminhamento: Suporte Especializado >> Log√≠stica >> Reversa
+	+ Diagn√≥stico: "Insumos Lexmark" ou "Insumos Epson" (Pode agrupar todos os itens Epson em um √∫nico diagn√≥stico)
+
+* Finaliza√ß√£o em N√≠vel 1 (N1) - Caso o usu√°rio opte pelo descarte:
+	+ Origem: Telefone, E-mail, Web, Chat
+	+ Tipo de Chamado: Requisi√ß√£o de Servi√ßo
+	+ Criticidade: Baixa (C2)
+	+ Assunto: Coleta >> Coleta de Insumos >> Recolhimento de Carca√ßa
+	+ Falha: Recolhimento de Carca√ßa
+	+ Grupo: Central de Atendimento
+	+ Diagn√≥stico: Insumos Lexmark
+	+ Servi√ßo: Orientado o Descarte
+
+Se tiver alguma d√∫vida sobre como categorizar o chamado no SDM, sinta-se √† vontade para perguntar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:32:13,761 - Use pytorch device_name: cpu
+2025-06-10 20:32:13,761 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:32:17,191 - Loading faiss with AVX2 support.
+2025-06-10 20:32:17,357 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:32:17,361 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:32:17,362 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:32:23,774 - Usu√°rio: Recolhimento
+2025-06-10 20:32:25,273 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:32:25,275 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Voc√™ est√° procurando por informa√ß√µes sobre recolhimento de insumos de impressoras, certo? 
+
+Para come√ßar, √© importante agrupar itens para descarte, acumulando pelo menos 5 itens para viabilizar e otimizar a coleta. Al√©m disso, √© fundamental lembrar que o descarte de toners n√£o pode ser feito em lixo comum ou ecol√≥gico por conta pr√≥pria. √â obrigat√≥rio registrar o chamado para recolhimento pela empresa.
+
+Se voc√™ tiver alguma d√∫vida ou precisar de mais informa√ß√µes, estou aqui para ajudar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:32:38,936 - Usu√°rio: abrir chamado
+2025-06-10 20:32:40,019 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:32:40,021 - Bot: Ol√°! Estou aqui para ajudar com impressoras.
+
+Para abrir um chamado, √© necess√°rio realizar uma s√©rie de verifica√ß√µes pr√©vias. Antes de abrir um chamado, voc√™ deve:
+
+1. Verificar se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade.
+2. Verificar o endere√ßo e CNPJ do cliente, consultando o site da Receita Federal para validar o endere√ßo.
+
+Se essas verifica√ß√µes forem realizadas com sucesso, voc√™ pode prosseguir com a abertura do chamado.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:34:28,163 - Use pytorch device_name: cpu
+2025-06-10 20:34:28,163 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:34:31,540 - Loading faiss with AVX2 support.
+2025-06-10 20:34:31,743 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:34:31,746 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:34:31,747 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:38:13,587 - Use pytorch device_name: cpu
+2025-06-10 20:38:13,587 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:38:16,720 - Loading faiss with AVX2 support.
+2025-06-10 20:38:16,812 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:38:16,827 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:38:16,827 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:38:21,462 - Usu√°rio: recolhimento
+2025-06-10 20:38:23,267 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:38:23,271 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras.
+
+Voc√™ est√° procurando por informa√ß√µes sobre recolhimento de insumos de impressoras (carca√ßas). √â importante lembrar que, antes de registrar um chamado, √© necess√°rio realizar verifica√ß√µes pr√©vias, como confirmar se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade, e verificar o endere√ßo e CNPJ do cliente.
+
+Al√©m disso, √© fundamental orientar o cliente sobre como preparar a coleta, como posicionar os itens no andar t√©rreo e comunicar toda a equipe da unidade sobre a solicita√ß√£o de recolhimento.
+
+√â importante lembrar que, para o item TONER, o registro do chamado para recolhimento pela empresa √© sempre obrigat√≥rio.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:38:32,033 - Usu√°rio: como abrir chamado
+2025-06-10 20:38:33,326 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:38:33,327 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras.
+
+Para abrir um chamado, √© necess√°rio seguir o PASSO 2: ABERTURA E SONDAGEM DO CHAMADO. Nesse passo, voc√™ deve realizar uma sondagem para coletar todas as informa√ß√µes necess√°rias.
+
+Para isso, voc√™ deve perguntar ao usu√°rio:
+
+1. Quantidade total de insumos para recolhimento?
+2. Todos os itens s√£o da marca Lexmark? (Se n√£o, especificar outras marcas).
+3. Qual o hor√°rio de funcionamento do local para a coleta?
+4. Existe alguma restri√ß√£o de acesso ao local? (Ex: agendamento, documento espec√≠fico, EPIs).
+5. O local onde os itens est√£o possui escadas?
+6. √â necess√°rio carrinho de transporte para a remo√ß√£o?
+7. Qual o n√∫mero de telefone celular (com DDD) de um contato no local? (Informar que √© para facilitar o contato da transportadora).
+8. Qual o e-mail para a transportadora enviar a notifica√ß√£o da coleta?
+
+Al√©m disso, voc√™ deve preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:43:18,464 - Use pytorch device_name: cpu
+2025-06-10 20:43:18,464 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:43:21,567 - Loading faiss with AVX2 support.
+2025-06-10 20:43:21,641 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:43:21,645 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:43:21,646 - --- Nova Sess√£o de Chat Iniciada ---
+2025-06-10 20:43:30,100 - Usu√°rio: recolhimento
+2025-06-10 20:43:30,880 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:43:31,088 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras. Estou aqui para ajudar.
+
+Voc√™ parece ter acessado o conte√∫do sobre o procedimento de recolhimento de insumos de impressoras. Se tiver alguma d√∫vida ou precisar de esclarecimento sobre algum ponto, basta perguntar!
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:43:35,529 - Usu√°rio: recolhimento
+2025-06-10 20:43:35,929 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:43:36,526 - Bot: Ol√°! Eu sou o SolvemeBot, especialista em impressoras. Estou aqui para ajudar.
+
+Voc√™ parece ter acessado o conte√∫do sobre o procedimento de recolhimento de insumos de impressoras. Se tiver alguma d√∫vida ou precisar de esclarecimento sobre algum ponto, basta perguntar!
+
+Lembre-se de que, para o item TONER, o registro do chamado para recolhimento pela empresa √© sempre obrigat√≥rio. Al√©m disso, √© importante orientar o usu√°rio a aguardar acumular um volume de pelo menos 5 (cinco) itens para descarte, o que viabiliza e otimiza a log√≠stica de coleta.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:46:15,253 - Use pytorch device_name: cpu
+2025-06-10 20:46:15,254 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:47:02,835 - Use pytorch device: cpu
+2025-06-10 20:47:03,164 - Loading faiss with AVX2 support.
+2025-06-10 20:47:03,183 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:47:03,186 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:47:09,421 - Usu√°rio: bom dia
+2025-06-10 20:47:10,406 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:47:10,607 - Bot: Bom dia! Eu sou o SolvemeBot, especialista em impressoras. Estou aqui para ajud√°-lo com suas perguntas. Qual √© sua d√∫vida hoje?
+2025-06-10 20:47:19,136 - Usu√°rio: sobre recolhimento
+2025-06-10 20:47:19,949 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:47:20,496 - Bot: Sobre recolhimento! Eu tenho algumas informa√ß√µes que podem ser √∫teis.
+
+Antes de registrar um chamado, √© importante verificar se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade (Fonte: recolhimento.txt). Al√©m disso, √© fundamental orientar o usu√°rio sobre alternativas para otimizar o processo, como o descarte ecol√≥gico local ou agrupar itens para descarte (Fonte: recolhimento.txt).
+
+Tamb√©m √© importante lembrar que, para o item TONER, o registro do chamado para recolhimento pela empresa √© sempre obrigat√≥rio (Fonte: recolhimento.txt).
+
+Se tiver mais alguma pergunta espec√≠fica sobre recolhimento, estou aqui para ajudar!
+2025-06-10 20:47:31,271 - Usu√°rio: o procedimento
+2025-06-10 20:47:32,142 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:47:32,788 - Bot: O procedimento de recolhimento!
+
+O procedimento operacional padr√£o para recolhimento de insumos (carca√ßas) √© o seguinte:
+
+**PASSO 1: An√°lise Pr√©via
+
+* Verifica√ß√£o de Chamados Abertos: Confirme se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade.
+* Verifica√ß√£o de Endere√ßo e CNPJ: Sempre que um CNPJ for informado, consulte o site da Receita Federal para validar o endere√ßo.
+* Campo O.S. Cliente: Preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+* Orienta√ß√µes para Preparar a Coleta: Instrua o usu√°rio sobre os seguintes pontos para garantir uma coleta produtiva.
+
+**PREVEN√á√ÉO: ALTERNATIVAS AO RECOLHIMENTO**
+
+* Op√ß√£o 1: Descarte Ecol√≥gico Local: Informe ao usu√°rio que ele tem a op√ß√£o de realizar o descarte ecol√≥gico das carca√ßas por conta pr√≥pria, atrav√©s de postos de coleta locais.
+
+(Fonte: recolhimento.txt)
+2025-06-10 20:48:30,510 - Use pytorch device_name: cpu
+2025-06-10 20:48:30,510 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 20:48:35,223 - Use pytorch device: cpu
+2025-06-10 20:48:35,780 - Loading faiss with AVX2 support.
+2025-06-10 20:48:35,800 - Successfully loaded faiss with AVX2 support.
+2025-06-10 20:48:35,803 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 20:48:40,312 - Usu√°rio: Recolhimento
+2025-06-10 20:48:41,257 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:48:41,764 - Bot: O procedimento de recolhimento de insumos de impressoras (carca√ßas) envolve v√°rias etapas, incluindo a an√°lise pr√©via, categoriza√ß√£o no SDM, finaliza√ß√£o em n√≠vel 1 e refer√™ncia de anexos. Al√©m disso, √© importante orientar o usu√°rio sobre alternativas ao recolhimento, como o descarte ecol√≥gico local. (Fonte: recolhimento.txt)
+2025-06-10 21:06:21,530 - Use pytorch device_name: cpu
+2025-06-10 21:06:21,530 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 21:06:26,229 - Use pytorch device: cpu
+2025-06-10 21:06:26,639 - Loading faiss with AVX2 support.
+2025-06-10 21:06:26,673 - Successfully loaded faiss with AVX2 support.
+2025-06-10 21:06:26,677 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 21:06:42,905 - Usu√°rio: Bom dia
+2025-06-10 21:06:44,151 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:06:44,293 - Bot: Bom dia! Eu sou o SolvemeBot, especialista em impressoras. Estou aqui para ajud√°-lo com suas d√∫vidas. Qual √© a sua pergunta ou problema hoje?
+2025-06-10 21:06:51,852 - Usu√°rio: Sobre recolhimento
+2025-06-10 21:06:52,657 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:06:53,182 - Bot: Recolhimento! Eu tenho informa√ß√µes sobre recolhimento de impressoras. Qual √© a sua pergunta espec√≠fica sobre recolhimento? √â sobre como preencher o campo "O.S. Cliente", ou sobre orienta√ß√µes para preparar a coleta, ou talvez sobre alternativas ao recolhimento? (Fonte: recolhimento.txt)
+2025-06-10 21:07:07,336 - Usu√°rio: os procedimentos para fazer o recolhimento
+2025-06-10 21:07:08,316 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:07:09,494 - Bot: Excelente escolha! Os procedimentos para fazer o recolhimento de impressoras s√£o divididos em dois passos: An√°lise Pr√©via e Abertura e Sondagem do Chamado.
+
+**An√°lise Pr√©via:**
+
+1. Verificar se n√£o h√° chamados de recolhimento j√° abertos para a mesma unidade.
+2. Verificar o endere√ßo e CNPJ do cliente, validando-o no site da Receita Federal.
+3. Preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+4. Orientar o usu√°rio sobre como preparar a coleta, posicionar os itens no andar t√©rreo e comunicar √† equipe da unidade sobre a solicita√ß√£o de recolhimento.
+2. Informar ao usu√°rio sobre a op√ß√£o de realizar o descarte ecol√≥gico das carca√ßas por conta pr√≥pria, atrav√©s de postos de coleta locais.
+
+**Abertura e Sondagem do Chamado:**
+
+1. Realizar uma sondagem completa para coletar todas as informa√ß√µes necess√°rias.
+2. Preencher o Checklist de Sondagem com as seguintes perguntas:
+	* Quantidade total de insumos para recolhimento?
+	* Todos os itens s√£o da marca Lexmark?
+	* Qual o hor√°rio de funcionamento do local para a coleta?
+	* Existe alguma restri√ß√£o de acesso ao local?
+	* O local onde os itens est√£o possui escadas?
+	* √â necess√°rio carrinho de transporte para a remo√ß√£o?
+	* Qual o n√∫mero de telefone celular (com DDD) de um contato no local?
+	* Qual o e-mail para a transportadora enviar a notifica√ß√£o da coleta?
+3. Preencher o campo "O.S. Cliente" com a quantidade total de itens a serem recolhidos.
+
+Esses s√£o os procedimentos para fazer o recolhimento de impressoras! (Fonte: recolhimento.txt)
+2025-06-10 21:08:12,215 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:08:31,251 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:08:56,665 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:10:02,328 - Use pytorch device_name: cpu
+2025-06-10 21:10:02,329 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 21:10:07,053 - Use pytorch device: cpu
+2025-06-10 21:10:07,523 - Loading faiss with AVX2 support.
+2025-06-10 21:10:07,545 - Successfully loaded faiss with AVX2 support.
+2025-06-10 21:10:07,549 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 21:16:06,883 - Use pytorch device_name: cpu
+2025-06-10 21:16:06,883 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 21:16:11,512 - Use pytorch device: cpu
+2025-06-10 21:16:11,827 - Loading faiss with AVX2 support.
+2025-06-10 21:16:11,899 - Successfully loaded faiss with AVX2 support.
+2025-06-10 21:16:11,905 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 21:16:41,129 - Use pytorch device_name: cpu
+2025-06-10 21:16:41,129 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 21:16:46,836 - Use pytorch device: cpu
+2025-06-10 21:16:47,149 - Loading faiss with AVX2 support.
+2025-06-10 21:16:47,219 - Successfully loaded faiss with AVX2 support.
+2025-06-10 21:16:47,223 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 21:16:57,330 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:17:29,487 - Use pytorch device_name: cpu
+2025-06-10 21:17:29,487 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 21:17:33,883 - Use pytorch device: cpu
+2025-06-10 21:17:34,295 - Loading faiss with AVX2 support.
+2025-06-10 21:17:34,362 - Successfully loaded faiss with AVX2 support.
+2025-06-10 21:17:34,365 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 21:17:41,363 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:18:27,745 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:18:34,707 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:20:59,815 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:21:03,148 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:21:09,234 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 21:21:16,911 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 22:13:44,037 - Use pytorch device_name: cpu
+2025-06-10 22:13:44,037 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-10 22:13:48,761 - Use pytorch device: cpu
+2025-06-10 22:13:49,079 - Loading faiss with AVX2 support.
+2025-06-10 22:13:49,185 - Successfully loaded faiss with AVX2 support.
+2025-06-10 22:13:49,189 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-10 22:14:04,177 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 22:14:13,049 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 22:14:40,425 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 15:31:28,318 - Use pytorch device_name: cpu
+2025-06-11 15:31:28,319 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 15:31:33,473 - Use pytorch device: cpu
+2025-06-11 15:31:33,860 - Loading faiss with AVX2 support.
+2025-06-11 15:31:37,379 - Successfully loaded faiss with AVX2 support.
+2025-06-11 15:31:37,384 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 15:31:43,852 - Use pytorch device_name: cpu
+2025-06-11 15:31:43,853 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 15:31:48,497 - Use pytorch device: cpu
+2025-06-11 15:31:48,915 - Loading faiss with AVX2 support.
+2025-06-11 15:31:49,126 - Successfully loaded faiss with AVX2 support.
+2025-06-11 15:31:49,131 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:04:35,137 - Use pytorch device_name: cpu
+2025-06-11 16:04:35,138 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 16:04:39,271 - Use pytorch device: cpu
+2025-06-11 16:04:39,602 - Loading faiss with AVX2 support.
+2025-06-11 16:04:41,814 - Successfully loaded faiss with AVX2 support.
+2025-06-11 16:04:41,817 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:07:21,844 - Use pytorch device_name: cpu
+2025-06-11 16:07:21,844 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 16:07:26,781 - Use pytorch device: cpu
+2025-06-11 16:07:27,110 - Loading faiss with AVX2 support.
+2025-06-11 16:07:27,125 - Successfully loaded faiss with AVX2 support.
+2025-06-11 16:07:27,128 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:12:19,835 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:12:31,656 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:12:43,155 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:18:51,303 - Use pytorch device_name: cpu
+2025-06-11 16:18:51,303 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 16:18:56,765 - Use pytorch device: cpu
+2025-06-11 16:18:57,096 - Loading faiss with AVX2 support.
+2025-06-11 16:18:57,148 - Successfully loaded faiss with AVX2 support.
+2025-06-11 16:18:57,153 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:18:58,013 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:19:22,679 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:19:34,956 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:19:42,665 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:22:41,838 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:22:59,734 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:23:03,582 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:23:10,141 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:23:25,390 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:24:24,401 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:24:51,750 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:27:39,628 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:27:51,245 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:27:59,967 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:30:58,267 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:31:05,144 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:32:50,040 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:32:56,725 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:34:35,294 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:34:43,264 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:36:54,730 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:36:59,321 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:41:45,904 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:41:52,964 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:42:09,813 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:42:24,831 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:42:38,714 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:44:44,821 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:44:51,728 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:46:47,803 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:47:07,018 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:47:16,271 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:50:34,230 - Use pytorch device_name: cpu
+2025-06-11 16:50:34,230 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 16:50:39,772 - Use pytorch device: cpu
+2025-06-11 16:50:40,583 - Loading faiss with AVX2 support.
+2025-06-11 16:50:40,597 - Successfully loaded faiss with AVX2 support.
+2025-06-11 16:50:40,601 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:51:39,615 - Use pytorch device_name: cpu
+2025-06-11 16:51:39,615 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 16:51:45,089 - Use pytorch device: cpu
+2025-06-11 16:51:45,421 - Loading faiss with AVX2 support.
+2025-06-11 16:51:45,447 - Successfully loaded faiss with AVX2 support.
+2025-06-11 16:51:45,484 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 16:51:46,409 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:52:02,645 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:52:28,626 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:42:53,075 - Use pytorch device_name: cpu
+2025-06-11 19:42:53,076 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 19:42:54,954 - Use pytorch device: cpu
+2025-06-11 19:42:54,966 - Loading faiss with AVX2 support.
+2025-06-11 19:42:55,113 - Successfully loaded faiss with AVX2 support.
+2025-06-11 19:42:55,126 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 19:44:52,027 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:45:04,317 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:32:12,306 - Use pytorch device_name: cpu
+2025-06-11 20:32:12,306 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:32:18,873 - Use pytorch device: cpu
+2025-06-11 20:33:53,428 - Use pytorch device_name: cpu
+2025-06-11 20:33:53,428 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:33:59,324 - Use pytorch device: cpu
+2025-06-11 20:33:59,737 - Loading faiss with AVX2 support.
+2025-06-11 20:34:02,247 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:34:02,251 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:34:09,768 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:34:18,062 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:34:32,990 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:35:00,765 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:35:07,352 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:36:50,894 - Use pytorch device_name: cpu
+2025-06-11 20:36:50,894 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:36:56,110 - Use pytorch device: cpu
+2025-06-11 20:36:56,629 - Loading faiss with AVX2 support.
+2025-06-11 20:36:56,648 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:36:56,652 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:37:27,915 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:37:33,445 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:37:40,339 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:38:16,452 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:40:54,412 - Use pytorch device_name: cpu
+2025-06-11 20:40:54,412 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:40:59,885 - Use pytorch device: cpu
+2025-06-11 20:41:00,194 - Loading faiss with AVX2 support.
+2025-06-11 20:41:00,254 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:41:00,261 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:43:22,632 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 20:47:52,443 - Use pytorch device_name: cpu
+2025-06-11 20:47:52,443 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:47:52,506 - Use pytorch device_name: cpu
+2025-06-11 20:47:52,506 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:47:58,081 - Use pytorch device: cpu
+2025-06-11 20:47:58,120 - Use pytorch device: cpu
+2025-06-11 20:47:58,506 - Loading faiss with AVX2 support.
+2025-06-11 20:47:58,507 - Loading faiss with AVX2 support.
+2025-06-11 20:47:58,641 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:47:58,641 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:47:58,645 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:47:58,647 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:48:08,175 - Use pytorch device_name: cpu
+2025-06-11 20:48:08,175 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:48:08,186 - Use pytorch device_name: cpu
+2025-06-11 20:48:08,186 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:48:13,550 - Use pytorch device: cpu
+2025-06-11 20:48:13,735 - Use pytorch device: cpu
+2025-06-11 20:48:13,884 - Loading faiss with AVX2 support.
+2025-06-11 20:48:13,908 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:48:13,913 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:48:14,040 - Loading faiss with AVX2 support.
+2025-06-11 20:48:14,507 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:48:14,523 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:52:26,044 - Use pytorch device_name: cpu
+2025-06-11 20:52:26,044 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:52:33,855 - Use pytorch device: cpu
+2025-06-11 20:52:34,162 - Loading faiss with AVX2 support.
+2025-06-11 20:52:34,221 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:52:34,231 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:55:03,825 - Use pytorch device_name: cpu
+2025-06-11 20:55:03,825 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 20:55:09,408 - Use pytorch device: cpu
+2025-06-11 20:55:09,910 - Loading faiss with AVX2 support.
+2025-06-11 20:55:09,927 - Successfully loaded faiss with AVX2 support.
+2025-06-11 20:55:09,931 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 20:55:31,006 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:01:12,144 - Use pytorch device_name: cpu
+2025-06-11 21:01:12,144 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:01:20,091 - Use pytorch device: cpu
+2025-06-11 21:01:20,606 - Loading faiss with AVX2 support.
+2025-06-11 21:01:20,650 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:01:20,657 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:03:08,129 - Use pytorch device_name: cpu
+2025-06-11 21:03:08,129 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:03:16,518 - Use pytorch device: cpu
+2025-06-11 21:03:16,842 - Loading faiss with AVX2 support.
+2025-06-11 21:03:16,910 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:03:16,964 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:03:35,685 - Use pytorch device_name: cpu
+2025-06-11 21:03:35,685 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:03:43,040 - Use pytorch device: cpu
+2025-06-11 21:03:43,459 - Loading faiss with AVX2 support.
+2025-06-11 21:03:43,479 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:03:43,484 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:07:22,995 - Use pytorch device_name: cpu
+2025-06-11 21:07:22,995 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:07:22,996 - Use pytorch device_name: cpu
+2025-06-11 21:07:22,996 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:07:28,439 - Use pytorch device: cpu
+2025-06-11 21:07:28,502 - Use pytorch device: cpu
+2025-06-11 21:07:28,836 - Loading faiss with AVX2 support.
+2025-06-11 21:07:28,882 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:07:28,894 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:07:29,020 - Loading faiss with AVX2 support.
+2025-06-11 21:07:29,058 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:07:29,062 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:07:38,874 - Use pytorch device_name: cpu
+2025-06-11 21:07:38,875 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:07:38,881 - Use pytorch device_name: cpu
+2025-06-11 21:07:38,881 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:07:44,806 - Use pytorch device: cpu
+2025-06-11 21:07:45,011 - Use pytorch device: cpu
+2025-06-11 21:07:45,219 - Loading faiss with AVX2 support.
+2025-06-11 21:07:45,243 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:07:45,248 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:07:45,363 - Loading faiss with AVX2 support.
+2025-06-11 21:07:45,384 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:07:45,389 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:08:08,463 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:08:13,788 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:08:20,850 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:08:30,170 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:08:46,148 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:08:55,771 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:09:57,620 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 21:10:58,773 - Use pytorch device_name: cpu
+2025-06-11 21:10:58,773 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-11 21:11:04,387 - Use pytorch device: cpu
+2025-06-11 21:11:04,899 - Loading faiss with AVX2 support.
+2025-06-11 21:11:04,925 - Successfully loaded faiss with AVX2 support.
+2025-06-11 21:11:04,929 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-11 21:11:15,783 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 14:50:10,506 - Use pytorch device_name: cpu
+2025-06-12 14:50:10,506 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 14:50:15,292 - Use pytorch device: cpu
+2025-06-12 14:50:15,589 - Loading faiss with AVX2 support.
+2025-06-12 14:50:15,639 - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:50:15,644 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:50:28,210 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 14:51:28,699 - Use pytorch device_name: cpu
+2025-06-12 14:51:28,699 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 14:51:34,594 - Use pytorch device: cpu
+2025-06-12 14:51:34,910 - Loading faiss with AVX2 support.
+2025-06-12 14:51:34,950 - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:51:34,954 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:51:53,241 - Use pytorch device_name: cpu
+2025-06-12 14:51:53,241 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 14:51:58,418 - Use pytorch device: cpu
+2025-06-12 14:51:58,719 - Loading faiss with AVX2 support.
+2025-06-12 14:51:58,764 - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:51:58,770 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:52:25,989 - Use pytorch device_name: cpu
+2025-06-12 14:52:25,989 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 14:52:30,651 - Use pytorch device: cpu
+2025-06-12 14:52:31,213 - Loading faiss with AVX2 support.
+2025-06-12 14:52:31,229 - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:52:31,232 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:52:40,066 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 14:53:18,857 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 14:56:30,346 - Use pytorch device_name: cpu
+2025-06-12 14:56:30,347 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 14:56:35,311 - Use pytorch device: cpu
+2025-06-12 14:56:35,606 - Loading faiss with AVX2 support.
+2025-06-12 14:56:35,623 - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:56:35,626 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:56:46,501 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:01:13,771 - Use pytorch device_name: cpu
+2025-06-12 15:01:13,771 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:01:18,395 - Use pytorch device: cpu
+2025-06-12 15:01:18,705 - Loading faiss with AVX2 support.
+2025-06-12 15:01:18,721 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:01:18,725 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:05:19,720 - Use pytorch device_name: cpu
+2025-06-12 15:05:19,720 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:05:24,623 - Use pytorch device: cpu
+2025-06-12 15:05:24,926 - Loading faiss with AVX2 support.
+2025-06-12 15:05:24,960 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:05:24,965 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:05:33,010 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:05:39,466 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:09:14,587 - Use pytorch device_name: cpu
+2025-06-12 15:09:14,587 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:09:19,119 - Use pytorch device: cpu
+2025-06-12 15:09:19,684 - Loading faiss with AVX2 support.
+2025-06-12 15:09:19,698 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:09:19,720 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:09:33,962 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:12:48,280 - Use pytorch device_name: cpu
+2025-06-12 15:12:48,280 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:12:52,840 - Use pytorch device: cpu
+2025-06-12 15:12:53,146 - Loading faiss with AVX2 support.
+2025-06-12 15:12:53,187 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:12:53,192 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:13:55,046 - Use pytorch device_name: cpu
+2025-06-12 15:13:55,047 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:13:59,518 - Use pytorch device: cpu
+2025-06-12 15:13:59,821 - Loading faiss with AVX2 support.
+2025-06-12 15:13:59,871 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:13:59,876 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:14:10,790 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:14:31,755 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:16:53,666 - Use pytorch device_name: cpu
+2025-06-12 15:16:53,666 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:16:59,248 - Use pytorch device: cpu
+2025-06-12 15:16:59,554 - Loading faiss with AVX2 support.
+2025-06-12 15:16:59,579 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:16:59,586 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:17:07,281 - Use pytorch device_name: cpu
+2025-06-12 15:17:07,282 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:17:11,561 - Use pytorch device: cpu
+2025-06-12 15:17:11,933 - Loading faiss with AVX2 support.
+2025-06-12 15:17:11,949 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:17:11,954 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:17:26,993 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:18:56,857 - Use pytorch device_name: cpu
+2025-06-12 15:18:56,857 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:19:01,538 - Use pytorch device: cpu
+2025-06-12 15:19:01,838 - Loading faiss with AVX2 support.
+2025-06-12 15:19:01,853 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:19:01,858 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:19:07,818 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:20:34,964 - Use pytorch device_name: cpu
+2025-06-12 15:20:34,964 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:20:39,565 - Use pytorch device: cpu
+2025-06-12 15:20:39,883 - Loading faiss with AVX2 support.
+2025-06-12 15:20:39,926 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:20:39,931 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:20:44,374 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:20:51,558 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:21:12,103 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:21:14,094 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:21:15,762 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:21:17,796 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:23:23,879 - Use pytorch device_name: cpu
+2025-06-12 15:23:23,879 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:23:28,532 - Use pytorch device: cpu
+2025-06-12 15:23:28,830 - Loading faiss with AVX2 support.
+2025-06-12 15:23:28,872 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:23:28,877 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:23:50,276 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:26:06,383 - Use pytorch device_name: cpu
+2025-06-12 15:26:06,383 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:26:11,034 - Use pytorch device: cpu
+2025-06-12 15:26:11,334 - Loading faiss with AVX2 support.
+2025-06-12 15:26:11,367 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:26:11,372 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:26:32,426 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:29:19,951 - Use pytorch device_name: cpu
+2025-06-12 15:29:19,951 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:29:25,166 - Use pytorch device: cpu
+2025-06-12 15:29:25,491 - Loading faiss with AVX2 support.
+2025-06-12 15:29:25,515 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:29:25,523 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:29:53,615 - Use pytorch device_name: cpu
+2025-06-12 15:29:53,615 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:29:58,827 - Use pytorch device: cpu
+2025-06-12 15:29:59,139 - Loading faiss with AVX2 support.
+2025-06-12 15:29:59,159 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:29:59,184 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:30:08,850 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:34:54,462 - Use pytorch device_name: cpu
+2025-06-12 15:34:54,462 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:34:58,928 - Use pytorch device: cpu
+2025-06-12 15:34:59,250 - Loading faiss with AVX2 support.
+2025-06-12 15:34:59,285 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:34:59,289 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:35:13,514 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:35:33,672 - Use pytorch device_name: cpu
+2025-06-12 15:35:33,672 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:35:37,876 - Use pytorch device: cpu
+2025-06-12 15:35:38,188 - Loading faiss with AVX2 support.
+2025-06-12 15:35:38,303 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:35:38,306 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:35:46,769 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:39:14,777 - Use pytorch device_name: cpu
+2025-06-12 15:39:14,777 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:39:20,318 - Use pytorch device: cpu
+2025-06-12 15:39:20,629 - Loading faiss with AVX2 support.
+2025-06-12 15:39:20,670 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:39:20,676 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:39:25,865 - Use pytorch device_name: cpu
+2025-06-12 15:39:25,865 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:39:30,403 - Use pytorch device: cpu
+2025-06-12 15:39:30,704 - Loading faiss with AVX2 support.
+2025-06-12 15:39:30,722 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:39:30,726 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:39:30,728 - Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2025-06-12 15:39:39,170 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:42:37,780 - Use pytorch device_name: cpu
+2025-06-12 15:42:37,780 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:42:43,004 - Use pytorch device: cpu
+2025-06-12 15:42:43,315 - Loading faiss with AVX2 support.
+2025-06-12 15:42:43,337 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:42:43,340 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:43:06,695 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:49:27,568 - Use pytorch device_name: cpu
+2025-06-12 15:49:27,569 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:49:32,179 - Use pytorch device: cpu
+2025-06-12 15:49:32,486 - Loading faiss with AVX2 support.
+2025-06-12 15:49:32,502 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:49:32,505 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:49:42,051 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:49:56,992 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:57:04,332 - Use pytorch device_name: cpu
+2025-06-12 15:57:04,332 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 15:57:09,019 - Use pytorch device: cpu
+2025-06-12 15:57:09,343 - Loading faiss with AVX2 support.
+2025-06-12 15:57:09,390 - Successfully loaded faiss with AVX2 support.
+2025-06-12 15:57:09,404 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 15:57:36,067 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:58:02,785 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:58:05,450 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:58:33,124 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:58:52,668 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 15:59:04,233 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:03:26,420 - Use pytorch device_name: cpu
+2025-06-12 16:03:26,420 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:03:31,963 - Use pytorch device: cpu
+2025-06-12 16:03:32,318 - Loading faiss with AVX2 support.
+2025-06-12 16:03:32,342 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:03:32,349 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:06:26,423 - Use pytorch device_name: cpu
+2025-06-12 16:06:26,423 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:06:30,572 - Use pytorch device: cpu
+2025-06-12 16:06:30,895 - Loading faiss with AVX2 support.
+2025-06-12 16:06:30,944 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:06:30,947 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:06:36,550 - Use pytorch device_name: cpu
+2025-06-12 16:06:36,550 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:06:40,677 - Use pytorch device: cpu
+2025-06-12 16:06:40,984 - Loading faiss with AVX2 support.
+2025-06-12 16:06:40,998 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:06:41,001 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:07:10,322 - Use pytorch device_name: cpu
+2025-06-12 16:07:10,322 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:07:14,840 - Use pytorch device: cpu
+2025-06-12 16:07:15,139 - Loading faiss with AVX2 support.
+2025-06-12 16:07:15,188 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:07:15,192 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:07:28,833 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:08:39,805 - Use pytorch device_name: cpu
+2025-06-12 16:08:39,805 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:08:45,064 - Use pytorch device: cpu
+2025-06-12 16:08:45,373 - Loading faiss with AVX2 support.
+2025-06-12 16:08:45,395 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:08:45,398 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:09:42,623 - Use pytorch device_name: cpu
+2025-06-12 16:09:42,623 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:09:47,117 - Use pytorch device: cpu
+2025-06-12 16:09:47,418 - Loading faiss with AVX2 support.
+2025-06-12 16:09:47,433 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:09:47,436 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:09:56,122 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:10:34,816 - Use pytorch device_name: cpu
+2025-06-12 16:10:34,817 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:10:40,620 - Use pytorch device: cpu
+2025-06-12 16:10:40,933 - Loading faiss with AVX2 support.
+2025-06-12 16:10:40,959 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:10:40,965 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:20:24,461 - Use pytorch device_name: cpu
+2025-06-12 16:20:24,461 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:20:29,396 - Use pytorch device: cpu
+2025-06-12 16:20:29,700 - Loading faiss with AVX2 support.
+2025-06-12 16:20:29,734 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:20:29,739 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:22:29,492 - Use pytorch device_name: cpu
+2025-06-12 16:22:29,492 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:22:33,585 - Use pytorch device: cpu
+2025-06-12 16:22:33,883 - Loading faiss with AVX2 support.
+2025-06-12 16:22:34,030 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:22:34,033 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:23:14,957 - Use pytorch device_name: cpu
+2025-06-12 16:23:14,957 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:23:19,141 - Use pytorch device: cpu
+2025-06-12 16:23:19,466 - Loading faiss with AVX2 support.
+2025-06-12 16:23:19,511 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:23:19,515 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:24:22,572 - Use pytorch device_name: cpu
+2025-06-12 16:24:22,572 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:24:26,731 - Use pytorch device: cpu
+2025-06-12 16:24:27,028 - Loading faiss with AVX2 support.
+2025-06-12 16:24:27,181 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:24:27,184 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:24:35,993 - Use pytorch device_name: cpu
+2025-06-12 16:24:35,993 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:24:41,786 - Use pytorch device: cpu
+2025-06-12 16:24:42,195 - Loading faiss with AVX2 support.
+2025-06-12 16:24:42,214 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:24:42,218 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:25:02,921 - Use pytorch device_name: cpu
+2025-06-12 16:25:02,921 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:25:07,104 - Use pytorch device: cpu
+2025-06-12 16:25:07,900 - Loading faiss with AVX2 support.
+2025-06-12 16:25:07,920 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:25:07,924 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:26:24,458 - Use pytorch device_name: cpu
+2025-06-12 16:26:24,458 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:26:28,924 - Use pytorch device: cpu
+2025-06-12 16:26:29,224 - Loading faiss with AVX2 support.
+2025-06-12 16:26:29,366 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:26:29,370 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:26:30,696 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:26:31,064 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:26:51,326 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:26:51,708 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:27:00,635 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:27:01,007 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:28:36,460 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:28:36,845 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:29:46,057 - Use pytorch device_name: cpu
+2025-06-12 16:29:46,057 - Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2025-06-12 16:29:50,312 - Use pytorch device: cpu
+2025-06-12 16:29:50,615 - Loading faiss with AVX2 support.
+2025-06-12 16:29:50,631 - Successfully loaded faiss with AVX2 support.
+2025-06-12 16:29:50,634 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 16:29:59,138 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 16:30:08,528 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

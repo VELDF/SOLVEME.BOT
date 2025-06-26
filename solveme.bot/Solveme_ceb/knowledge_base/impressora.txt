@@ -1,0 +1,59 @@
+### GUIA RÁPIDO - IMPRESSORA ###
+MARCA: Lexmark
+MODELO: MX521de
+TIPO: Multifuncional Monocromática
+
+== ESPECIFICAÇÕES GERAIS ==
+Toner Padrão: 56F4000 (Rendimento: 6.000 páginas)
+Toner de Alto Rendimento: 56F4H00 (Rendimento: 15.000 páginas)
+Unidade de Imagem (Drum): 56F0Z00 (Rendimento: 60.000 páginas)
+Memória Padrão: 1024 MB
+Conectividade: Gigabit Ethernet (10/100/1000), USB 2.0
+
+== CÓDIGOS DE ERRO COMUNS ==
+
+CÓDIGO: 121.03
+PROBLEMA: Cartucho de toner não suportado ou com defeito.
+DESCRIÇÃO: Ocorre quando o chip do cartucho de toner não é reconhecido pela impressora.
+SOLUÇÃO:
+1. Verifique se o cartucho de toner é um modelo original Lexmark (56F4000 ou 56F4H00).
+2. Desligue a impressora, remova o cartucho de toner e a unidade de imagem.
+3. Reinstale a unidade de imagem e o cartucho de toner, garantindo que estejam firmemente encaixados.
+4. Ligue a impressora. Se o erro persistir, substitua o cartucho de toner.
+
+CÓDIGO: 900.00
+PROBLEMA: Erro de firmware.
+DESCRIÇÃO: Um erro inesperado ocorreu no software interno da impressora.
+SOLUÇÃO:
+1. Desligue a impressora da tomada.
+2. Aguarde 30 segundos.
+3. Ligue a impressora novamente.
+4. Se o erro persistir, verifique o site de suporte da Lexmark por atualizações de firmware para o modelo MX521de.
+
+== PROCEDIMENTOS PASSO A PASSO ==
+
+TÍTULO: Como encontrar o endereço IP da impressora
+PASSOS:
+1. No painel de toque da impressora, navegue para: Configurações.
+2. Selecione a opção: Rede/Portas.
+3. Selecione: TCP/IP.
+4. O endereço IP será exibido na tela.
+
+TÍTULO: Como configurar a digitalização para pasta de rede (SMB)
+PASSOS:
+1. Obtenha o endereço IP da impressora.
+2. Em um navegador de internet no computador, digite o endereço IP para acessar o Servidor da Web Incorporado (EWS).
+3. No menu à esquerda, vá para: Configurações.
+4. Selecione: Configuração de Digitalização para Pasta de Rede.
+5. Clique em "Adicionar um Atalho" e preencha os campos obrigatórios: Nome do atalho, Caminho da pasta (ex: \\servidor\scans), domínio (se necessário), nome de usuário e senha com permissão de escrita na pasta.
+6. Salve o atalho. Ele aparecerá no painel da impressora.
+
+== PERGUNTAS FREQUENTES (FAQ) ==
+
+PERGUNTA: A impressora MX521de digitaliza frente e verso em uma única passada?
+RESPOSTA: Sim, o modelo MX521de possui um alimentador automático de documentos (ADF) com digitalização duplex de passagem única, o que torna o processo muito rápido.
+
+PERGUNTA: Qual o ciclo de trabalho mensal máximo da MX521de?
+RESPOSTA: O ciclo de trabalho máximo recomendado para a Lexmark MX521de é de até 175.000 páginas por mês.
+
+duplex

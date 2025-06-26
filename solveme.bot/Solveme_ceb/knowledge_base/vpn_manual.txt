@@ -1,0 +1,6 @@
+Título: Guia de Configuração de VPN
+
+Para configurar a VPN da empresa, siga estes passos:
+1. Abra o cliente VPN instalado no seu computador.
+2. Digite o endereço do servidor: vpn.suaempresa.com
+3. Use seu usuário e senha de rede para conectar.

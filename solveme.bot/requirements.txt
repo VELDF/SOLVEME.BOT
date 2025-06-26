@@ -1,0 +1,44 @@
+# --- Backend (API Server) ---
+fastapi
+uvicorn[standard] # Inclui 'watchfiles' para um reload mais inteligente
+
+# --- LLM, LangChain e Ferramentas (para o bot de chat) ---
+groq
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-community # Para a GoogleSearchAPIWrapper
+sentence-transformers
+
+# Para o futuro backend de gerenciamento de documentos (se DocLing for usado)
+docling
+pypdf # Dependência comum para o DocLing (para processar PDFs)
+python-docx # Dependência comum para o DocLing (para processar arquivos .docx)
+
+# --- Banco de Dados Vetorial (Vector Store - para o bot de chat) ---
+faiss-cpu
+
+# --- Dependências para o backend de usuários (CRUD MySQL) ---
+sqlalchemy # Para interagir com bancos de dados
+passlib[bcrypt] # Para hashing de senhas
+pydantic[email] # Para validação de email no Pydantic
+mysql-connector-python # Para conexão com MySQL
+
+# python-jose[cryptography] # Opcional: apenas se for implementar JWTs agora.
+
+# --- Utilitários ---
+python-dotenv # Para carregar variáveis de ambiente
+beautifulsoup4
+lxml
+
+httpx
+pytest
+sqlalchemy
+passlib[bcrypt]
+mysql-connector-python
+pydantic[email]
+
+flask
+flask_cors
+JWT
+pytest-html

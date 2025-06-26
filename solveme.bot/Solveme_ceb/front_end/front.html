@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solveme.Bot</title>
+    <link rel="stylesheet" href="front.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <img src="assets/Logo SolveMeBot.png" alt="Logo Solveme.Bot">
+        </div>
+        <nav class="nav-links">
+            <a href="#">Menu</a>
+            <a href="#">Suporte</a>
+            <a href="../../chat_bot_paginas/notas.py">Bloco de Notas</a>
+            <a href="../../chat_bot_paginas/mural.py">Mural de Atividades</a>
+            <a href="../../chat_bot_paginas/feedback.py">Feedback</a>
+        </nav>
+        <a href="#" class="logout-btn">Deslogar</a>
+    </header>
+
+    <div id="chat-utility-bar" class="chat-utility-bar">
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Pesquisar na conversa...">
+            <button class="icon-btn" id="search-btn" title="Pesquisar"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+        <button class="utility-btn" id="reset-chat-btn" title="Limpar conversa">
+            <i class="fa-solid fa-arrows-rotate"></i> Limpar
+        </button>
+    </div>
+
+    <main id="main-content" class="main-content">
+        <div class="welcome-screen">
+            <h1 class="main-title">Solveme.Bot</h1>
+            <div class="suggestions-grid">
+                <div class="suggestion-column">
+                    <h2><i class="fa-solid fa-clock-rotate-left"></i> Recentes</h2>
+                    <button class="suggestion-btn">Como configurar o VPN</button>
+                    <button class="suggestion-btn">Como resetar o MFA</button>
+                    <button class="suggestion-btn">Como executar o mapeamento de pasta</button>
+                </div>
+                <div class="suggestion-column">
+                    <h2><i class="fa-solid fa-star"></i> Recomendado</h2>
+                    <button class="suggestion-btn">Instalação do pacote office</button>
+                    <button class="suggestion-btn">Solicitação de instalação</button>
+                    <button class="suggestion-btn">Como configurar a impressora</button>
+                </div>
+            </div>
+        </div>
+        
+        <div id="chat-box" class="chat-box">
+             </div>
+    </main>
+    
+    <button id="scroll-to-top-btn" class="scroll-to-top-btn" title="Ir para o topo">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+
+    <footer class="input-footer">
+        <div class="chat-input-area">
+            <i class="fa-solid fa-robot input-icon"></i>
+            <input type="text" id="user-input" placeholder="Em que posso ajudar você">
+            <button class="icon-btn" id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+        </div>
+        <p class="footer-disclaimer">A IA pode cometer erros. Confira informações importantes.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="front.js"></script>
+</body>
+</html>
