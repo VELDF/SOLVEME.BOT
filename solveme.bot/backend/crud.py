@@ -1,16 +1,20 @@
-# --- NOVO ARQUIVO: crud.py ---
-
 from sqlalchemy.orm import Session
-from . import models, schemas
-from typing import Optional
+from sqlalchemy import select # Importante para as queries no SQLAlchemy 1.4+ / 2.0
+from . import models, schemas # Importa os modelos e schemas do mesmo nível
+from typing import Optional, List
 
-# Funções CRUD para Usuário
+# --- Funções CRUD para o modelo Usuario ---
+
 def get_user_by_email(db: Session, email: str):
-    return db.query(models.Usuario).filter(models.Usuario.email == email).first()
+    """
+    Busca um usuário pelo email.
+    """
+    return db.execute(select(models.Usuario).filter(models.Usuario.email == email)).scalar_one_or_none()
 
 def create_user(db: Session, user: schemas.UserCreate, hashed_password: str):
-    # Nota: eh_admin e ativo não estão no UserCreate do schemas.py,
-    # então adicionei a lógica para caso você os adicione posteriormente ou precise de valores padrão.
+    """
+    Cria um novo usuário no banco de dados.
+    """
     db_user = models.Usuario(
         nome=user.nome,
         email=user.email,
@@ -25,30 +29,47 @@ def create_user(db: Session, user: schemas.UserCreate, hashed_password: str):
     db.refresh(db_user)
     return db_user
 
-# Funções CRUD para Mensagens de Chat
-def create_chat_conversation(db: Session, user_id: int, title: Optional[str] = None):
-    db_conversation = models.ChatConversation(user_id=user_id, title=title)
-    db.add(db_conversation)
+def get_users(db: Session, skip: int = 0, limit: int = 100) -> List[models.Usuario]:
+    """
+    Retorna uma lista de todos os usuários, com paginação opcional.
+    """
+    return db.execute(select(models.Usuario).offset(skip).limit(limit)).scalars().all()
+
+def get_user(db: Session, user_id: int) -> Optional[models.Usuario]:
+    """
+    Retorna um usuário pelo seu ID.
+    """
+    return db.execute(select(models.Usuario).filter(models.Usuario.id == user_id)).scalar_one_or_none()
+
+def update_user(db: Session, db_user: models.Usuario, user_update: schemas.UserUpdate):
+    """
+    Atualiza os dados de um usuário existente.
+    """
+    update_data = user_update.model_dump(exclude_unset=True) # Pega apenas os campos que foram enviados no update
+    for key, value in update_data.items():
+        setattr(db_user, key, value)
+    db.add(db_user) # Adiciona para garantir que o SQLAlchemy rastreie a mudança
     db.commit()
-    db.refresh(db_conversation)
-    return db_conversation
+    db.refresh(db_user)
+    return db_user
 
-def get_chat_conversation(db: Session, conversation_id: int):
-    return db.query(models.ChatConversation).filter(models.ChatConversation.id == conversation_id).first()
+def delete_user(db: Session, user_id: int) -> bool:
+    """
+    Deleta um usuário pelo seu ID.
+    """
+    db_user = db.execute(select(models.Usuario).filter(models.Usuario.id == user_id)).scalar_one_or_none()
+    if db_user:
+        db.delete(db_user)
+        db.commit()
+        return True
+    return False
 
-def create_chat_message(db: Session, conversation_id: int, sender: str, content: str, attachment_url: Optional[str] = None):
-    db_message = models.ChatMessage(
-        conversation_id=conversation_id,
-        sender=sender,
-        content=content,
-        attachment_url=attachment_url
-    )
-    db.add(db_message)
+def update_user_password(db: Session, db_user: models.Usuario, hashed_password: str):
+    """
+    Atualiza apenas o hash da senha de um usuário.
+    """
+    db_user.senha_hash = hashed_password
+    db.add(db_user)
     db.commit()
-    db.refresh(db_message)
-    return db_message
-
-def get_chat_messages(db: Session, conversation_id: int):
-    return db.query(models.ChatMessage).filter(models.ChatMessage.conversation_id == conversation_id).order_by(models.ChatMessage.created_at).all()
-
-# Você adicionaria mais funções CRUD aqui para Notes, Feedbacks, etc., conforme necessário.
+    db.refresh(db_user)
+    return db_user

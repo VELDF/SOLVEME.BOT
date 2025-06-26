@@ -1,0 +1,8 @@
+2025-06-26 17:03:30,154 - WARNING - Usuário placeholder com ID 1 e email 'teste@sistema.com' criado para teste.
+2025-06-26 17:06:47,704 - WARNING - Usuário placeholder com ID 1 e email 'teste@sistema.com' criado para teste.
+2025-06-26 17:11:28,673 - WARNING - Usuário placeholder com ID 1 e email 'teste@sistema.com' criado para teste.
+2025-06-26 17:11:31,777 - ERROR - Erro ao chamar o LLM ou processar stream: object Stream can't be used in 'await' expression
+2025-06-26 17:11:32,781 - ERROR - Erro ao chamar o LLM ou processar stream: object Stream can't be used in 'await' expression
+2025-06-26 17:14:58,892 - WARNING - Usuário placeholder com ID 1 e email 'teste@sistema.com' criado para teste.
+2025-06-26 17:15:00,614 - ERROR - Erro ao chamar o LLM ou processar stream: object Stream can't be used in 'await' expression
+2025-06-26 17:15:01,617 - ERROR - Erro ao chamar o LLM ou processar stream: object Stream can't be used in 'await' expression

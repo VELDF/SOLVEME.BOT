@@ -1,15 +1,15 @@
-# --- NOVO ARQUIVO: schemas.py ---
+# SOLVEME.BOT/backend/schemas.py
 
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, ConfigDict # ADICIONADO: ConfigDict
 from datetime import datetime
 from typing import Optional, List
 
-# Esquema base para a requisição de chat
+# Esquema base para a requisição de chat (se você ainda o usa aqui, se não, pode remover)
 class ChatRequest(BaseModel):
     prompt: str
-    history: List[dict] = [] # Lista de dicionários para o histórico da conversa
+    history: List[dict] = []
 
-# Esquemas para Usuário (exemplo, você precisará de mais para registro/login)
+# Esquemas para Usuário
 class UserBase(BaseModel):
     email: EmailStr
 
@@ -28,27 +28,25 @@ class UserResponse(UserBase):
     ativo: bool
     criado_em: datetime
 
-    class Config:
-        orm_mode = True # Habilita o modo ORM para Pydantic (compatibilidade com SQLAlchemy)
+    model_config = ConfigDict(from_attributes=True) # Corrigido para Pydantic V2
 
-# Esquemas para Mensagens de Chat
+# Esquemas para Mensagens de Chat (se você ainda os usa aqui)
 class ChatMessageBase(BaseModel):
-    sender: str # Poderia ser um Enum('USER', 'AI') aqui também
+    sender: str
     content: str
     attachment_url: Optional[str] = None
 
 class ChatMessageCreate(ChatMessageBase):
-    pass # No momento da criação, os campos são os mesmos da base
+    pass
 
 class ChatMessageResponse(ChatMessageBase):
     id: int
     conversation_id: int
     created_at: datetime
 
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(from_attributes=True) # Corrigido para Pydantic V2
 
-# Esquemas para Conversas de Chat
+# Esquemas para Conversas de Chat (se você ainda os usa aqui)
 class ChatConversationBase(BaseModel):
     title: Optional[str] = None
 
@@ -59,7 +57,17 @@ class ChatConversationResponse(ChatConversationBase):
     id: int
     user_id: int
     created_at: datetime
-    messages: List[ChatMessageResponse] = [] # Opcional: incluir mensagens ao listar conversas
+    messages: List[ChatMessageResponse] = []
 
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(from_attributes=True) # Corrigido para Pydantic V2
+
+# ADICIONADO/CORRIGIDO: Schema para atualização de usuário (permite campos opcionais)
+class UserUpdate(BaseModel):
+    nome: Optional[str] = None
+    email: Optional[EmailStr] = None
+    telefone: Optional[str] = None
+    setor: Optional[str] = None
+    eh_admin: Optional[bool] = None
+    ativo: Optional[bool] = None
+    
+    model_config = ConfigDict(from_attributes=True) # Corrigido para Pydantic V2
