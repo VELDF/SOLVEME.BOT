@@ -7,19 +7,10 @@ import json
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, clear_mappers
 from fastapi.testclient import TestClient
-
-# Importa a aplicação FastAPI do seu Solveme_ceb
-# Assumimos que Solveme_ceb/api.py é onde sua aplicação FastAPI 'app' está definida
 from Solveme_ceb.api import app
-# Importa as configurações do banco de dados do seu pacote 'backend'
-# Note que 'engine as original_engine' não é estritamente necessário aqui,
-# mas é bom manter a consistência se houver outras dependências que o usem.
-from backend.database import Base, get_db as original_get_db # Importa Base e a função get_db original
-from backend import models, crud # Para verificar diretamente no DB de teste usando models e crud
+from backend.database import Base, get_db as original_get_db 
+from backend import models, crud 
 
-# Usaremos um banco de dados SQLite em arquivo para os testes de API.
-# Isso é preferível a um DB completamente em memória para alguns cenários
-# onde a persistência entre diferentes chamadas à fixture possa ser útil (embora aqui resete).
 TEST_DATABASE_FILE = "sqlite:///./test_api_chat.db" 
 
 @pytest.fixture(scope="module")
@@ -28,7 +19,6 @@ def db_session_for_test():
     Fixture que configura um banco de dados SQLite temporário para os testes de API,
     sobrescrevendo a dependência de DB do FastAPI.
     """
-    # Remove qualquer arquivo de banco de dados de teste anterior para garantir um estado limpo
     if os.path.exists(TEST_DATABASE_FILE):
         try:
             os.remove(TEST_DATABASE_FILE)
@@ -36,11 +26,8 @@ def db_session_for_test():
         except PermissionError as e:
             print(f"\nWARNING: Não foi possível remover o arquivo de DB de teste: {e}. Por favor, remova manualmente.")
 
-    # Cria um engine SQLite para o arquivo temporário
     test_engine = create_engine(TEST_DATABASE_FILE)
-    Base.metadata.create_all(bind=test_engine) # Cria as tabelas no DB de teste
-
-    # Cria uma SessionLocal de teste
+    Base.metadata.create_all(bind=test_engine) 
     TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=test_engine)
 
     # Sobrescreve a dependência `get_db` do FastAPI para que ela use nosso DB de teste
@@ -57,15 +44,14 @@ def db_session_for_test():
     yield TestingSessionLocal() 
 
     # --- Limpeza após todos os testes do módulo ---
-    app.dependency_overrides.clear() # Limpa as sobrescritas de dependência no FastAPI
-    Base.metadata.drop_all(bind=test_engine) # Remove as tabelas do DB de teste
-    clear_mappers() # Limpa os mapeamentos ORM (importante para evitar side effects entre módulos/test runs)
-    test_engine.dispose() # Garante que o engine e as conexões sejam fechados
+    app.dependency_overrides.clear() 
+    Base.metadata.drop_all(bind=test_engine) 
+    clear_mappers() 
+    test_engine.dispose()
 
-    # Tenta remover o arquivo do DB novamente
     if os.path.exists(TEST_DATABASE_FILE):
         try:
-            time.sleep(0.1) # Pequena pausa para garantir que o arquivo não esteja em uso
+            time.sleep(0.1) 
             os.remove(TEST_DATABASE_FILE)
             print(f"Removido arquivo de DB de teste: {TEST_DATABASE_FILE}")
         except PermissionError as e:
@@ -75,7 +61,7 @@ def db_session_for_test():
             print(f"ERRO INESPERADO ao remover arquivo de DB de teste: {e}")
 
 @pytest.fixture(scope="module")
-def client(db_session_for_test): # Esta fixture garante que o DB de teste esteja configurado antes do TestClient
+def client(db_session_for_test): 
     """
     Fixture que retorna uma instância do TestClient do FastAPI para fazer requisições à API.
     """

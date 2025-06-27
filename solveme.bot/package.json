@@ -1,6 +1,24 @@
 {
   "dependencies": {
     "ngx-quill": "^28.0.1",
+    "node": "^22.17.0",
     "quill": "^2.0.3"
+  },
+  "name": "solveme.bot",
+  "version": "1.0.0",
+  "description": "1. Crie um ambiente virtual (opcional, recomendado): ``` python -m venv venv source venv/bin/activate  # Linux/macOS venv\\Scripts\\activate   # Windows ```",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^14.5.0"
   }
 }

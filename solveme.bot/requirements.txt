@@ -42,3 +42,7 @@ flask
 flask_cors
 JWT
 pytest-html
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+python-jose[cryptography]

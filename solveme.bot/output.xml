@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3.1 (Python 3.13.5 on win32)" generated="2025-06-27T16:10:49.561680" rpa="false" schemaversion="5">
+<suite id="s1" name="Suites" source="C:\solveme.bot\tests\robot\suites">
+<suite id="s1-s1" name="User Crud E2E" source="C:\solveme.bot\tests\robot\suites\user_crud_e2e.robot">
+<test id="s1-s1-t1" name="Full User Management Workflow Via UI" line="7">
+<kw name="Open Browser To Frontend" owner="common_keywords">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:49.931597" level="INFO">Opening browser 'Chrome' to base url 'http://localhost:4200/login'.</msg>
+<arg>${url}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2025-06-27T16:10:49.931433" elapsed="3.015178"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2025-06-27T16:10:52.946783" elapsed="0.032540"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" owner="SeleniumLibrary">
+<arg>5s</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" start="2025-06-27T16:10:52.979473" elapsed="0.000745"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-06-27T16:10:52.980454" level="INFO">Navegador aberto para o frontend em http://localhost:4200/login.</msg>
+<arg>Navegador aberto para o frontend em ${url}.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-06-27T16:10:52.980332" elapsed="0.000155"/>
+</kw>
+<arg>${FRONTEND_URL}/login</arg>
+<status status="PASS" start="2025-06-27T16:10:49.930959" elapsed="3.049581"/>
+</kw>
+<kw name="User Login" owner="common_keywords">
+<kw name="Wait Until Page Contains Element" owner="SeleniumLibrary">
+<arg>css:input[type="email"]</arg>
+<arg>timeout=10s</arg>
+<doc>Waits until the element ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2025-06-27T16:10:52.981278" elapsed="0.007259"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:52.988850" level="INFO">Typing text 'admin@example.com' into text field 'css:input[type="email"]'.</msg>
+<arg>css:input[type="email"]</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:52.988672" elapsed="0.064807"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:53.053824" level="INFO">Typing text 'adminpassword' into text field 'css:input[type="password"]'.</msg>
+<arg>css:input[type="password"]</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:53.053619" elapsed="0.057056"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:53.110954" level="INFO">Clicking button 'xpath=//button[normalize-space()='CONECTAR']'.</msg>
+<arg>xpath=//button[normalize-space()='CONECTAR']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:53.110809" elapsed="0.049857"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:55.695562" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-3.png"&gt;&lt;img src="selenium-screenshot-3.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2025-06-27T16:10:55.695894" level="FAIL">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</msg>
+<arg>${FRONTEND_URL}/dashboard</arg>
+<arg>timeout=10s</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="FAIL" start="2025-06-27T16:10:53.160810" elapsed="2.542817">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<arg>Dashboard</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="NOT RUN" start="2025-06-27T16:10:55.703789" elapsed="0.000026"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<arg>Login realizado com sucesso para o usuário ${username}.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2025-06-27T16:10:55.703886" elapsed="0.000017"/>
+</kw>
+<arg>admin@example.com</arg>
+<arg>adminpassword</arg>
+<status status="FAIL" start="2025-06-27T16:10:52.980934" elapsed="2.723070">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</kw>
+<kw name="Navigate To User Management" owner="common_keywords">
+<status status="NOT RUN" start="2025-06-27T16:10:55.704298" elapsed="0.000048"/>
+</kw>
+<kw name="Add New User Via UI" owner="user_management_keywords">
+<arg>test_robot@example.com</arg>
+<arg>RobotPass123</arg>
+<arg>Robot User</arg>
+<arg>Robot Tester</arg>
+<arg>11987654321</arg>
+<status status="NOT RUN" start="2025-06-27T16:10:55.704610" elapsed="0.000041"/>
+</kw>
+<kw name="Verify User Exists In List" owner="user_management_keywords">
+<arg>Robot User</arg>
+<status status="NOT RUN" start="2025-06-27T16:10:55.704940" elapsed="0.000029"/>
+</kw>
+<kw name="Edit User Via UI" owner="user_management_keywords">
+<arg>Robot User</arg>
+<arg>11999998888</arg>
+<arg>Senior Robot Tester</arg>
+<status status="NOT RUN" start="2025-06-27T16:10:55.705657" elapsed="0.000027"/>
+</kw>
+<kw name="Verify User Exists In List" owner="user_management_keywords">
+<arg>Robot User</arg>
+<status status="NOT RUN" start="2025-06-27T16:10:55.705825" elapsed="0.000019"/>
+</kw>
+<kw name="Delete User Via UI" owner="user_management_keywords">
+<arg>Robot User</arg>
+<status status="NOT RUN" start="2025-06-27T16:10:55.706084" elapsed="0.000023"/>
+</kw>
+<kw name="Close All Browsers" owner="SeleniumLibrary">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="NOT RUN" start="2025-06-27T16:10:55.706393" elapsed="0.000036"/>
+</kw>
+<status status="FAIL" start="2025-06-27T16:10:49.930506" elapsed="5.776460">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</test>
+<doc>Este teste simula o fluxo completo de CRUD de usuários na interface do Solveme.Bot.</doc>
+<status status="FAIL" start="2025-06-27T16:10:49.582067" elapsed="6.126482"/>
+</suite>
+<suite id="s1-s2" name="User Login E2E" source="C:\solveme.bot\tests\robot\suites\user_login_e2e.robot">
+<test id="s1-s2-t1" name="Successful User Login And Dashboard Navigation" line="6">
+<kw name="Open Browser To Frontend" owner="common_keywords">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:55.714188" level="INFO">Opening browser 'Chrome' to base url 'http://localhost:4200/login'.</msg>
+<arg>${url}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2025-06-27T16:10:55.713988" elapsed="1.694786"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.409008" elapsed="0.029655"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" owner="SeleniumLibrary">
+<arg>5s</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.438855" elapsed="0.001821"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-06-27T16:10:57.441022" level="INFO">Navegador aberto para o frontend em http://localhost:4200/login.</msg>
+<arg>Navegador aberto para o frontend em ${url}.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.440838" elapsed="0.000239"/>
+</kw>
+<arg>${FRONTEND_URL}/login</arg>
+<status status="PASS" start="2025-06-27T16:10:55.713658" elapsed="1.727565"/>
+</kw>
+<kw name="User Login" owner="common_keywords">
+<kw name="Wait Until Page Contains Element" owner="SeleniumLibrary">
+<arg>css:input[type="email"]</arg>
+<arg>timeout=10s</arg>
+<doc>Waits until the element ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.441895" elapsed="0.006778"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:57.449168" level="INFO">Typing text 'admin@example.com' into text field 'css:input[type="email"]'.</msg>
+<arg>css:input[type="email"]</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.448892" elapsed="0.064564"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:57.513834" level="INFO">Typing text 'adminpassword' into text field 'css:input[type="password"]'.</msg>
+<arg>css:input[type="password"]</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.513635" elapsed="0.060790"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:10:57.574864" level="INFO">Clicking button 'xpath=//button[normalize-space()='CONECTAR']'.</msg>
+<arg>xpath=//button[normalize-space()='CONECTAR']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2025-06-27T16:10:57.574640" elapsed="0.048517"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<msg time="2025-06-27T16:11:00.165020" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-4.png"&gt;&lt;img src="selenium-screenshot-4.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2025-06-27T16:11:00.165216" level="FAIL">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</msg>
+<arg>${FRONTEND_URL}/dashboard</arg>
+<arg>timeout=10s</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="FAIL" start="2025-06-27T16:10:57.623305" elapsed="2.543843">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<arg>Dashboard</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="NOT RUN" start="2025-06-27T16:11:00.167402" elapsed="0.000050"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<arg>Login realizado com sucesso para o usuário ${username}.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2025-06-27T16:11:00.167597" elapsed="0.000040"/>
+</kw>
+<arg>admin@example.com</arg>
+<arg>adminpassword</arg>
+<status status="FAIL" start="2025-06-27T16:10:57.441589" elapsed="2.726219">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</kw>
+<kw name="Close All Browsers" owner="SeleniumLibrary">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="NOT RUN" start="2025-06-27T16:11:00.168405" elapsed="0.000025"/>
+</kw>
+<status status="FAIL" start="2025-06-27T16:10:55.713200" elapsed="4.455564">UnexpectedAlertPresentException: Alert Text: Falha no login
+Message: unexpected alert open: {Alert text : Falha no login}
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cf6a6f65+76917]
+	GetHandleVerifier [0x0x7ff6cf6a6fc0+77008]
+	(No symbol) [0x0x7ff6cf459dea]
+	(No symbol) [0x0x7ff6cf50110c]
+	(No symbol) [0x0x7ff6cf4d8243]
+	(No symbol) [0x0x7ff6cf4a1431]
+	(No symbol) [0x0x7ff6cf4a21c3]
+	GetHandleVerifier [0x0x7ff6cf97d29d+3051437]
+	GetHandleVerifier [0x0x7ff6cf9778f3+3028483]
+	GetHandleVerifier [0x0x7ff6cf99588d+3151261]
+	GetHandleVerifier [0x0x7ff6cf6c182e+185662]
+	GetHandleVerifier [0x0x7ff6cf6c96ef+218111]
+	GetHandleVerifier [0x0x7ff6cf6afae4+112628]
+	GetHandleVerifier [0x0x7ff6cf6afc99+113065]
+	GetHandleVerifier [0x0x7ff6cf696c68+10616]
+	BaseThreadInitThunk [0x0x7ffae6fbe8d7+23]
+	RtlUserThreadStart [0x0x7ffae851c34c+44]
+</status>
+</test>
+<doc>Este teste simula o fluxo de login de um usuário na interface do Solveme.Bot.</doc>
+<status status="FAIL" start="2025-06-27T16:10:55.709254" elapsed="4.460510"/>
+</suite>
+<status status="FAIL" start="2025-06-27T16:10:49.562647" elapsed="10.607990"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="2" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Suites" id="s1" pass="0" fail="2" skip="0">Suites</stat>
+<stat name="User Crud E2E" id="s1-s1" pass="0" fail="1" skip="0">Suites.User Crud E2E</stat>
+<stat name="User Login E2E" id="s1-s2" pass="0" fail="1" skip="0">Suites.User Login E2E</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

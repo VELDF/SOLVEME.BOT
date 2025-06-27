@@ -5,16 +5,9 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import os
 import time
-
-# Importa a Base de database para criar tabelas SQLite em teste
 from backend.database import Base 
-
-# Importa os modelos, schemas e crud do pacote backend
 from backend import models, schemas, crud 
-
-# Importa as funções do user_manager e auth_utils
 from backend.src import user_manager
-# from backend.src import auth_utils # Não precisamos importar diretamente aqui, pois user_manager os usa
 
 # Nome do arquivo de banco de dados SQLite para o teste
 TEST_DATABASE_FILE = "sqlite:///./test_user_manager.db"
