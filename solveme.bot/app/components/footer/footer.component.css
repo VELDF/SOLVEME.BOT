@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 3rem;
+  }
+  
+p{
+ margin-top: 20px;
+}
+
+hr{
+  opacity: 50%;
+}

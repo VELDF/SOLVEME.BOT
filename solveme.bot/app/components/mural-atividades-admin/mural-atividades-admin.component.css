@@ -1,0 +1,72 @@
+.mural-container {
+  padding: 20px;
+  background-color: #1e1e1e;
+  color: white;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.back-btn {
+  position: absolute;
+  left: 0;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.search-bar input {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  width: 300px;
+  background-color: #333;
+  color: white;
+}
+
+.card-container {
+  background-color: #2b2b2b;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  border-bottom: 1px solid #444;
+}
+
+.checkbox input {
+  margin-right: 10px;
+}
+
+.icon-alerta {
+  margin-right: 10px;
+  color: #ff4d4d;
+  font-size: 18px;
+}
+
+.descricao {
+  flex-grow: 1;
+}
+
+.seta {
+  font-size: 18px;
+  color: #aaa;
+}

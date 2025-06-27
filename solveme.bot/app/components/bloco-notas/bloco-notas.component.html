@@ -1,0 +1,35 @@
+<div class="bloco-notas-container">
+  <button class="voltar-btn" [routerLink]="'/menu'">&#8592;</button>
+  <h2 class="titulo">Bloco de Notas</h2>
+
+  <ng-container *ngIf="!editorAberto">
+    <div class="botoes">
+      <button class="btn-cinza" (click)="abrirEditor()">Criar anotação</button>
+      <button class="btn-vermelho" (click)="excluirSelecionadas()">Excluir selecionadas</button>
+    </div>
+
+    <div class="anotacoes-lista">
+      <div class="anotacao" *ngFor="let anotacao of anotacoes">
+        <input type="checkbox" [(ngModel)]="anotacao.selecionada" />
+        <div class="anotacao-titulo">{{ anotacao.titulo }}</div>
+        <span [innerHTML]="anotacao.texto"></span>
+      </div>
+    </div>
+  </ng-container>
+
+  <ng-container *ngIf="editorAberto">
+    <div class="editor-modal">
+      <div class="editor-toolbar">
+        <span>Nova Anotação</span>
+      </div>
+      <input class="titulo-input" maxlength="50" [(ngModel)]="editorTitulo" placeholder="Título da anotação (máx. 50 caracteres)" />
+      <quill-editor [(ngModel)]="editorConteudo" [modules]="quillModules" (onContentChanged)="onEditorChange($event)" [style]="{height: '220px', background: '#181b20', color: '#fff'}"></quill-editor>
+      <div class="editor-botoes">
+        <button class="btn-cinza" (click)="cancelarEditor()">Cancelar</button>
+        <button class="btn-verde" (click)="salvarNovaAnotacao()">Salvar</button>
+      </div>
+    </div>
+  </ng-container>
+
+  <div class="limite-caracteres">Limite: 300 caracteres</div>
+</div> 

@@ -1,0 +1,133 @@
+:host {
+    display: block;
+    background-color: #0d0d0d; /* Fundo geral escuro */
+    color: white;
+    min-height: 100vh;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  /* Header */
+  .mural-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .mural-header h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .mural-actions {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .avatar,
+  .icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  /* Barra de pesquisa e botão */
+  .mural-controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .search-input {
+    flex: 1;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    border: none;
+    background-color: #1a1a1a;
+    color: white;
+    outline: none;
+  }
+  
+  .nova-tarefa-btn {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 0.5rem 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .nova-tarefa-btn:hover {
+    background-color: #8428f1;
+  }
+  
+  /* Colunas */
+  .mural-columns {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+  }
+  
+  .mural-coluna {
+    background-color: #161616;
+    border-radius: 12px;
+    padding: 1rem;
+    min-width: 250px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mural-coluna h3 {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  
+  /* Tarefas */
+  .tarefa {
+    background-color: #2a2a2a;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    color: #eee;
+    transition: transform 0.2s;
+  }
+  
+  .tarefa:hover {
+    transform: scale(1.02);
+  }
+  
+  .tarefa .titulo {
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+  }
+  
+  .tarefa .data {
+    font-size: 0.85rem;
+    color: #aaa;
+  }
+  
+  /* Botão de adicionar */
+  .btn-adicionar {
+    background-color: #2a2a2a;
+    color: white;
+    border: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    align-self: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .btn-adicionar:hover {
+    background-color: #6a0dad;
+  }
+  

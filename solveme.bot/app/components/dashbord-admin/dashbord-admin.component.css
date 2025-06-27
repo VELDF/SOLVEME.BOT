@@ -1,0 +1,132 @@
+.dashboard-wrapper {
+    background-color: #1a1c22;
+    color: white;
+    padding: 20px;
+    max-width: 500px;
+    margin: 3rem auto;
+    border-radius: 16px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  .dashboard-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .dashboard-header h2 {
+    font-size: 22px;
+    margin: 0;
+  }
+  
+  .back-arrow {
+    font-size: 26px;
+    color: #8e5eff;
+    cursor: pointer;
+  }
+  
+  .stats-grid {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .stat-card {
+    background: #1f2023;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    flex: 1;
+    min-width: 140px;
+  }
+  
+  .stat-card .title {
+    color: #ccc;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .stat-card .value {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .activity-box {
+    background: #1f2023;
+    border-radius: 12px;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .activity-box h3 {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #ddd;
+    font-weight: 600;
+  }
+  
+  .activity {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 18px;
+  }
+  
+  .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  
+  .avatar.purple {
+    background-color: #8e5eff;
+    color: white;
+  }
+  
+  .avatar.yellow {
+    background-color: #f1c40f;
+    color: black;
+  }
+  
+  .avatar.image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .details strong {
+    font-size: 14px;
+    color: white;
+    margin-bottom: 2px;
+  }
+  
+  .details p {
+    margin: 0;
+    font-size: 13px;
+    color: #ccc;
+  }
+  
+  .details span {
+    font-size: 12px;
+    color: #888;
+    margin-top: 2px;
+  }
+  

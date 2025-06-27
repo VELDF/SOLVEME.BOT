@@ -1,0 +1,17 @@
+<main class="main-content">
+  <h1>Menu Principal</h1>
+
+  <div class="menu-grid">
+    <div 
+      class="menu-card" 
+      *ngFor="let item of menuItems"
+      [routerLink]="item.route" 
+      [class.clickable]="item.route"
+      style="cursor: pointer;"
+    >
+      <div class="card-icon">{{ item.icon }}</div>
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-description">{{ item.description }}</p>
+    </div>
+  </div>
+</main>

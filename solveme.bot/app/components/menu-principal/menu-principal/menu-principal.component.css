@@ -1,0 +1,104 @@
+/* Estilos Globais e do Container */
+:host {
+  display: block;
+  background-color: #121212; /* Cor de fundo principal escura */
+  color: #e0e0e0; /* Cor do texto principal clara */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Estilos do Cabeçalho */
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333;
+}
+
+.main-header .logo svg path {
+  fill: #e0e0e0;
+}
+
+.main-nav a, .logout-section a {
+  color: #b0b0b0;
+  text-decoration: none;
+  margin: 0 15px;
+  transition: color 0.3s ease;
+}
+
+.main-nav a:hover, .logout-section a:hover {
+  color: #ffffff;
+}
+
+/* Estilos do Conteúdo Principal */
+.main-content {
+  flex-grow: 1; /* Faz o conteúdo principal ocupar o espaço disponível */
+  padding: 40px;
+  text-align: center;
+}
+
+.main-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+/* Grade de Cartões do Menu */
+.menu-grid {
+  display: grid;
+  /* Cria colunas de tamanho flexível, mas com um mínimo de 250px */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px; /* Espaçamento entre os cartões */
+  max-width: 1200px;
+  margin: 0 auto; /* Centraliza a grade */
+}
+
+/* Estilos dos Cartões Individuais */
+.menu-card {
+  background-color: #1e1e1e;
+  border-radius: 10px;
+  padding: 25px;
+  text-align: left;
+  border: 1px solid #333;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.menu-card:hover {
+  transform: translateY(-5px); /* Efeito de elevação ao passar o mouse */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-icon {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #bb86fc; /* Um toque de cor para os ícones */
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.card-description {
+  font-size: 0.9rem;
+  color: #b0b0b0;
+  line-height: 1.5;
+}
+
+/* Estilos do Rodapé */
+.main-footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1e1e1e;
+  border-top: 1px solid #333;
+  color: #757575;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,25 @@
+<div class="dashboard">
+
+  <div class="dashboard-header">
+    <span class="material-icons back-arrow" (click)="voltar()">arrow_back</span>
+    <h2>Dashboard</h2>
+  </div>
+
+  <div class="cards-container">
+    <div class="card">Atendimentos de Hoje<br><strong>5</strong></div>
+    <div class="card">Atendimentos na Semana<br><strong>18</strong></div>
+    <div class="card full-width">Atendimentos no Mês<br><strong>64</strong></div>
+    <div class="card">Taxa de Resolução<br><strong>87%</strong></div>
+    <div class="card">Tempo Médio de Resposta<br><strong>30min</strong></div>
+  </div>
+
+  <div class="card full-width">
+    <h3>Atendimentos por Categoria</h3>
+    <div class="grafico-container">
+      <div class="barra" *ngFor="let c of categorias">
+        <div class="barra-interna" [style.height]="calcularAltura(c.valor)"></div>
+        <span>{{ c.nome }}</span>
+      </div>
+    </div>
+  </div>
+</div>

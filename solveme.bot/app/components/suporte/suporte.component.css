@@ -1,0 +1,35 @@
+ .suporte-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    background-color: #0d0d0d;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .divider {
+    border: none;
+    height: 2px;
+    margin: 2rem 0;
+    background: linear-gradient(to right, #9b5de5, #00f5d4);
+  }
+  
+  .contato-lista {
+    list-style: none;
+    padding-left: 0;
+    margin: 1rem 0;
+  }
+  
+  .contato-lista li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .mensagem-final {
+    margin-top: 2rem;
+    font-size: 1rem;
+  }

@@ -1,0 +1,71 @@
+{
+  "compileOnSave": false, // Não compila automaticamente ao salvar, geralmente handled pelo Angular CLI
+  "compilerOptions": {
+    // Opções de saída e formatação
+    "baseUrl": "./", // Define a base para resolução de módulos
+    "outDir": "./dist/out-tsc", // Diretório de saída para arquivos compilados
+    "sourceMap": true, // Gera arquivos .map para debugging
+    "declaration": false, // Não gera arquivos .d.ts para a biblioteca (se fosse uma lib)
+    "downlevelIteration": true, // Suporte a iteração em ES5/ES3
+    "experimentalDecorators": true, // Habilita o uso de decorators experimentais (necessário para Angular)
+    "moduleResolution": "node", // Como os módulos são resolvidos (usando a lógica do Node.js)
+    "esModuleInterop": true, // Permite importações de módulos CommonJS usando import default
+    "importHelpers": true, // Importa helpers de tslib para menor tamanho de bundle
+    "target": "ES2022", // A versão ECMAScript para a qual o código será compilado
+    "module": "ES2022", // O sistema de módulos a ser usado (ES Modules para browsers)
+    "lib": [ // Bibliotecas de tipos padrão incluídas
+      "ES2022",
+      "dom",
+      "dom.iterable"
+    ],
+    "resolveJsonModule": true, // Permite importar arquivos .json diretamente
+    "allowSyntheticDefaultImports": true, // Permite importações padrão de módulos sem exportação padrão
+
+    // Opções de rigor
+    "forceConsistentCasingInFileNames": true, // Garante que o casing dos nomes dos arquivos seja consistente
+    "noImplicitReturns": true, // Erro se uma função não retorna em todos os caminhos de código
+    "noFallthroughCasesInSwitch": true, // Erro se um case de switch não tem break/return
+    "strict": true, // Habilita todas as opções de verificação de tipo rigorosas
+    "noImplicitOverride": true, // Erro se um método sobrescreve sem 'override' (Angular 12+)
+    "noPropertyAccessFromIndexSignature": false, // Permite acesso a propriedades via notação de índice
+    "noImplicitAny": false, // Permite o uso de 'any' implícito (pode ser true para maior rigor)
+
+    // Caminhos para definições de tipo
+    // typeRoots: Onde o TypeScript deve procurar por arquivos de declaração de tipo.
+    // Isso é crucial para que @types/eslint, @types/estree e @types/cypress sejam encontrados.
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    // types: Lista de pacotes de declaração de tipo a serem incluídos.
+    // Se esta lista estiver vazia ou omitida, o TypeScript inclui todos os @types em typeRoots.
+    // Se você listar apenas alguns, ele *só* incluirá os listados.
+    // Recomenda-se deixá-lo vazio para que ele descubra automaticamente, ou incluir explicitamente seletivamente.
+    "types": [
+      "jasmine", // Padrão para testes Angular
+      "node",    // Para tipos Node.js
+     
+      // "eslint",   // Geralmente não é necessário listar explicitamente se @types/eslint está instalado
+      // "estree"    // Geralmente não é necessário listar explicitamente se @types/estree está instalado
+    ],
+
+    // Mapeamento de caminhos (paths) - útil para aliases de importação
+    "paths": {
+      "@core/*": [
+        "src/app/core/*"
+      ],
+      "@shared/*": [
+        "src/app/shared/*"
+      ]
+    }
+  },
+  // Inclui os arquivos .ts do diretório src e os arquivos de teste
+  "include": [
+    "src/**/*.ts",
+    
+  ],
+  // Exclui diretórios que não devem ser compilados
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

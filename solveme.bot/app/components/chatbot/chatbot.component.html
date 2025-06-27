@@ -1,0 +1,38 @@
+<div class="chat-wrapper">
+  <h1 class="title">Solveme.<span>Bot</span></h1>
+
+  <!-- SUGESTÕES -->
+  <div class="suggestions-container" *ngIf="!chatAtivo">
+    <div class="suggestion-column">
+      <h3><i class="fa-solid fa-clock-rotate-left"></i> Recentes</h3>
+      <button class="suggestion-btn" *ngFor="let item of recentes" (click)="sendSuggestion(item)">
+        {{ item }}
+      </button>
+    </div>
+    <div class="suggestion-column">
+      <h3><i class="fa-solid fa-star"></i> Recomendado</h3>
+      <button class="suggestion-btn" *ngFor="let item of recomendados" (click)="sendSuggestion(item)">
+        {{ item }}
+      </button>
+    </div>
+  </div>
+
+  <!-- ÁREA DO CHAT -->
+  <div class="chat-container">
+    <div class="message" *ngFor="let item of historico">
+      <div class="pergunta"><strong>Você:</strong> {{ item.pergunta }}</div>
+      <div class="resposta">
+        <strong>Bot:</strong> {{ item.resposta }}
+        <button class="copy-btn" (click)="copiarTexto(item.resposta)">Copiar</button>
+      </div>
+    </div>
+
+    <textarea [(ngModel)]="prompt" placeholder="Digite sua pergunta..."></textarea>
+    <button (click)="sendPrompt()" [disabled]="loading">Enviar</button>
+
+    <div *ngIf="loading" class="loading">Pensando...</div>
+
+    <button class="reset-btn" *ngIf="chatAtivo && !loading" (click)="resetChat()">Limpar conversa</button>
+    <button class="scroll-to-top-btn" title="Topo" (click)="rolarParaTopo()">🔝</button>
+  </div>
+</div>

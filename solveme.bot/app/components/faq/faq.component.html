@@ -1,0 +1,23 @@
+<section class="faq-container">
+  <div class="faq-header">
+    <button class="faq-back" aria-label="Voltar" [routerLink]="'/menu'">&#8592;</button>
+    <h1>FAQ</h1>
+  </div>
+  <div class="faq-search-wrapper">
+    <input class="faq-search" type="text" placeholder="Pesquisar" [(ngModel)]="searchTerm" />
+  </div>
+
+  <div class="faq-list">
+    <div 
+      class="faq-item" 
+      *ngFor="let faq of filteredFaqs; let i = index"
+      [class.open]="openIndex === i"
+      (click)="toggle(i)"
+    >
+      <div class="faq-question" [class.destaque]="i === 0 && !searchTerm">{{ faq.question }}</div>
+      <div class="faq-answer">
+        {{ faq.answer }}
+      </div>
+    </div>
+  </div>
+</section> 

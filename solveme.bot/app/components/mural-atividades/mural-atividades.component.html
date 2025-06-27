@@ -1,0 +1,30 @@
+<div class="mural-container">
+    <div class="mural-header">
+      <h2>Mural de Atividades</h2>
+    </div>
+  
+    <div class="mural-controls">
+      <input
+        type="text"
+        [(ngModel)]="searchTerm"
+        (input)="filterTasks()"
+        placeholder="Pesquisar tarefas"
+        class="search-input"
+      />
+      <button (click)="addTask()" class="nova-tarefa-btn">Nova tarefa</button>
+    </div>
+  
+    <div class="mural-columns">
+      <div *ngFor="let coluna of columns" class="mural-coluna">
+        <h3>{{ coluna.title }}</h3>
+  
+        <div *ngFor="let tarefa of coluna.filteredTasks" class="tarefa">
+          <p class="titulo">{{ tarefa.title }}</p>
+          <p class="data">{{ tarefa.date }}</p>
+        </div>
+  
+        <button class="btn-adicionar" (click)="addTask()">+</button>
+      </div>
+    </div>
+  </div>
+  

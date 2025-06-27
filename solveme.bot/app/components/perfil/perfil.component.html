@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="dashboard-header">
+    <span class="material-icons back-arrow" (click)="voltar()">arrow_back</span>
+    <h2>Perfil</h2>
+  </div>
+  <div class="perfil">
+    <img src="../../../assets/img/fotoexemplo.png" alt="Avatar" class="avatar">
+    <div class="info">
+      <strong>Alex Mason</strong>
+      <a href="mailto:Email@empresa.com">suporte&#64;solveme.com</a>
+      <p>Analista de negócios</p>
+    </div>
+  </div>
+
+  <label>Telefone</label>
+  <input [(ngModel)]="telefone" type="text" class="input" />
+
+  <label>Senha</label>
+  <div class="senha-container">
+    <input [type]="isSenhaVisivel ? 'text' : 'password'" [(ngModel)]="senha" class="input" />
+    <button type="button" class="toggle" (click)="toggleSenha()"></button>
+  </div>
+
+  <div class="botoes">
+    <button (click)="alterarSenha()">Alterar Senha</button>
+    <button (click)="salvar()">Salvar</button>
+  </div>
+</div>

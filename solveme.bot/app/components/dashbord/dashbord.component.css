@@ -1,0 +1,77 @@
+.dashboard {
+  background-color: #1a1c22;
+  color: white;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 16px;
+  font-family: Arial, sans-serif;
+  margin-top: 3rem;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+
+.back-arrow {
+  font-size: 28px;
+  color: #8e5eff;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.back-arrow:hover {
+  color: #b197ff;
+}
+
+
+h2, h3 {
+  text-align: center;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #1c1f26;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.full-width {
+  grid-column: span 2;
+}
+
+.grafico-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  height: 160px;
+  padding: 10px 0;
+}
+
+.barra {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40px;
+  height: 100%;
+}
+
+.barra-interna {
+  width: 100%;
+  min-height: 5px; /* Garante que seja visível mesmo com valores baixos */
+  background-color: #3b82f6;
+  transition: height 0.3s;
+  border-radius: 4px 4px 0 0;
+}

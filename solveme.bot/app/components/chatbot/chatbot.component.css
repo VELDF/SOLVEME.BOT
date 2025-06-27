@@ -1,0 +1,165 @@
+:host {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2.2rem;
+    color: #8e5eff;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+  
+  .suggestions-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  
+  .suggestion-column {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .suggestion-column h3 {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+  }
+  
+  .suggestion-btn {
+    display: block;
+    width: 100%;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 15px;
+    margin-bottom: 12px;
+    text-align: left;
+    cursor: pointer;
+    transition: background-color 0.25s ease;
+    font-size: 0.9rem;
+  }
+  
+  .suggestion-btn:hover {
+    background-color: #8e5eff;
+    color: white;
+  }
+  
+  .chat-container {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 90px;
+    background-color: #1e1e1e;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    font-size: 1rem;
+    resize: none;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  textarea::placeholder {
+    color: #999;
+  }
+  
+  button {
+    background-color: #8e5eff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:disabled {
+    background-color: #b45d74;
+    cursor: not-allowed;
+  }
+  
+  button:hover:not(:disabled) {
+    background-color: #8e5eff;
+  }
+  
+  .loading {
+    color: #8e5eff;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  .response {
+    margin-top: 20px;
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #ddd;
+  }
+  
+  .response h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #e91e63;
+  }
+  
+  .reset-btn {
+    margin-top: 15px;
+    background-color: #333;
+    color: #bbb;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+  
+  .reset-btn:hover {
+    background-color: #555;
+    color: white;
+  }
+  
+
+  .copy-btn {
+    margin-left: 10px;
+    font-size: 0.8rem;
+    background-color: transparent;
+    color: #aaa;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .copy-btn:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+  .scroll-to-top-btn {
+    margin-top: 10px;
+    background-color: #444;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 14px;
+    font-size: 1rem;
+    cursor: pointer;
+    float: right;
+  }
+  

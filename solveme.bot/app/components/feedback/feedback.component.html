@@ -1,0 +1,31 @@
+<div class="feedback-container">
+  <button class="voltar-btn" (click)="voltar()">&#8592;</button>
+  <h2 class="titulo">Feedback</h2>
+
+  <ng-container *ngIf="etapa === 'escolha'">
+    <div class="feedback-content">
+      <p class="feedback-text">Deixe seu feedback</p>
+      <div class="feedback-opcoes">
+        <div class="feedback-opcao" *ngFor="let opcao of opcoes" (click)="selecionarOpcao(opcao)">
+          <div class="feedback-icon">{{ opcao.icon }}</div>
+          <div class="feedback-label">{{ opcao.label }}</div>
+        </div>
+      </div>
+    </div>
+  </ng-container>
+
+  <ng-container *ngIf="etapa === 'detalhe' && opcaoSelecionada">
+    <div class="feedback-detalhe">
+      <div class="feedback-detalhe-titulo">
+        <span class="feedback-detalhe-icon">{{ opcaoSelecionada.icon }}</span>
+        <span class="feedback-detalhe-label">{{ opcaoSelecionada.label }}</span>
+      </div>
+      <textarea class="feedback-textarea" [(ngModel)]="mensagem" [placeholder]="opcaoSelecionada.placeholder"></textarea>
+      <div class="feedback-detalhe-botoes">
+        <button class="btn-feedback-enviar" (click)="enviarFeedback()">
+          <span class="material-icons">send</span> Enviar Feedback
+        </button>
+      </div>
+    </div>
+  </ng-container>
+</div> 

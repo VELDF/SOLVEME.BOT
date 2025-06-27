@@ -1,0 +1,24 @@
+<div class="mural-container">
+  <div class="header">
+    <button class="back-btn" (click)="voltar()">←</button>
+    <h2>Mural de Atividades</h2>
+  </div>
+
+  <div class="card" *ngFor="let funcionario of funcionarios">
+    <div class="checkbox">
+      <input type="checkbox" />
+    </div>
+    <div class="icon-alerta" *ngIf="funcionario.alerta">
+      <span>❗</span>
+    </div>
+    <div class="descricao">
+      Tabela Funcionário(a): <strong>{{ funcionario.nome }}</strong>
+    </div>
+    <div class="seta">
+      ➤
+    </div>
+  </div>
+  
+
+
+</div>

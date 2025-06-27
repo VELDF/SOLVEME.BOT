@@ -1,0 +1,20 @@
+<div class="historico-container">
+  <div class="dashboard-header">
+    <span class="material-icons back-arrow" (click)="voltar()">arrow_back</span>
+    <h2>Histórico</h2>
+  </div>
+
+  <button class="novo-assunto">Começar um novo assunto</button>
+
+  <div class="lista">
+    <div class="item" *ngFor="let atendimento of historico">
+      <div>
+        <h3>{{ atendimento.titulo }}</h3>
+        <p>{{ atendimento.data }} <span class="hora">• {{ atendimento.hora }}</span></p>
+      </div>
+      <span class="seta">›</span>
+    </div>
+  </div>
+
+  <button class="ver-mais">Ver mais</button>
+</div>

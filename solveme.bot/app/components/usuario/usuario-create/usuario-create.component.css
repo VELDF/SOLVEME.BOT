@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  background-color: #0e1012;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.cadastro-container {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 30px;
+}
+
+.cadastro-card {
+  background-color: #1a1d22;
+  padding: 30px;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 500px;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.cadastro-card h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+form input {
+  width: 80%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #2b2f36;
+  color: white;
+  margin: 0 auto 15px auto; 
+  display: block;
+  text-align: center;
+}
+
+
+
+.senha-group {
+  position: relative;
+}
+
+.senha-icon {
+  position: absolute;
+  right: 12px;
+  top: 10px;
+  color: #ccc;
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.btn-cinza {
+  background-color: #af0b0b;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-roxo {
+  background: linear-gradient(to right, #8b5cf6, #6366f1);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}

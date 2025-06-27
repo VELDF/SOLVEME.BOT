@@ -1,0 +1,99 @@
+.container {
+  background-color: #1a1c22;
+  color: #ffffff;
+  padding: 2rem;
+  border-radius: 16px;
+  width: 420px;
+  margin: auto;
+  font-family: sans-serif;
+  margin-top: 3rem;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.back-arrow {
+  font-size: 28px;
+  color: #8e5eff;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.back-arrow:hover {
+  color: #b197ff;
+}
+
+.titulo {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+.info a {
+  color: #a6d1ff;
+  text-decoration: none;
+  display: block;
+}
+
+.input {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #1f2a37;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.senha-container {
+  position: relative;
+}
+
+.toggle {
+  position: absolute;
+  right: 10px;
+  top: 8px;
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.botoes button {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.botoes button:first-child {
+  background-color: #3b3f45;
+  color: #ccc;
+}
+
+.botoes button:last-child {
+  background-color: #5a5243;
+  color: white;
+}
